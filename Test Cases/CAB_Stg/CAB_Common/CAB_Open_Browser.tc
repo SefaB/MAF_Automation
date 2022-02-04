@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case created to open browsers.</description>
+   <name>CAB_Open_Browser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b3065c7-f80a-4547-a9cb-1e4e60658216</testCaseGuid>
+</TestCaseEntity>
