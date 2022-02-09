@@ -21,3 +21,15 @@ WebUI.callTestCase(findTestCase('CAB/CAB_Common/CAB_Open_Browser'), [:], Failure
 
 WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/holiday_banner'))
 
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/JustForYou_aFewThings_media-body_items'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/JusForYou_aFewThings_media-body'))
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/JustForYou_aFewThings_media-body_items'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/theHolidaysAreComing_banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/theHolidaysAreComing_banner'))
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/theHolidaysAreComing_media-body'))
+
