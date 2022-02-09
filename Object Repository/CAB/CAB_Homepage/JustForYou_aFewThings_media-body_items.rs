@@ -4,6 +4,16 @@
    <name>JustForYou_aFewThings_media-body_items</name>
    <tag></tag>
    <elementGuidId>7976d0d6-a4a7-45fa-9bab-4c497b5a2742</elementGuidId>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;comp_00385285&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
