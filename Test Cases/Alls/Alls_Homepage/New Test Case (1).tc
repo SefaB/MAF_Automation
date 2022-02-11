@@ -4,5 +4,9 @@
    <name>New Test Case (1)</name>
    <tag></tag>
    <comment></comment>
+<<<<<<< HEAD
    <testCaseGuid>8f54a1e1-3e3a-41fb-8f5f-6c8ab0df9899</testCaseGuid>
+=======
+   <testCaseGuid>43301671-52b0-4a1c-b448-79f5e57bb0a1</testCaseGuid>
+>>>>>>> branch 'main' of https://github.com/SefaB/MAF_Automation.git
 </TestCaseEntity>
