@@ -17,7 +17,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1643960980026</id>
+			<id>1644565655026</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -26,7 +26,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1643960980030</id>
+			<id>1644565655029</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -35,7 +35,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1643961232258</id>
+			<id>1644565969569</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -44,6 +44,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1643961232261</id>
 			<name></name>
 			<type>6</type>
@@ -225,6 +226,9 @@
 		</filter>
 		<filter>
 			<id>1644569712327</id>
+=======
+			<id>1644565969573</id>
+>>>>>>> branch 'main' of https://github.com/SefaB/MAF_Automation
 			<name></name>
 			<type>6</type>
 			<matcher>
