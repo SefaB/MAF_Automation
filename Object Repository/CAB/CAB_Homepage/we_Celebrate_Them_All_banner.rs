@@ -4,6 +4,16 @@
    <name>we_Celebrate_Them_All_banner</name>
    <tag></tag>
    <elementGuidId>488e1c9e-e027-4036-af26-35321038ddb6</elementGuidId>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;comp_00276019&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

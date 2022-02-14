@@ -33,3 +33,59 @@ WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/theHolidaysAreComing
 
 WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/theHolidaysAreComing_media-body'))
 
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/fall_is_in_banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/fall_is_in_banner'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/find_Your_Outside_banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/find_Your_Outside_banner'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/top_Product_Furnitures_banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/top_Product_Furnitures_banner'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/work_From_Home_Essentials_banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/work_From_Home_Essentials_banner'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/top_Product_Housewares_carousel'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/top_Product_Housewares_carousel'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/we_Celebrate_Them_All_banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/we_Celebrate_Them_All_banner'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/crate_Design_Studio_banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/crate_Design_Studio_banner'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/a_Soft_Spot_for_Towels_banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/a_Soft_Spot_for_Towels_banner'))
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/basics_that_make_theBed_Banner'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/it_Your_Favorite_Everyday_Getaway'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/it_Your_Favorite_Everyday_Getaway'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/Crate_Kids_the_statement_nursery'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/Crate_Kids_the_statement_nursery'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/better_Together_Banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/better_Together_Banner'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/your_Moments_Your_Way_banner'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/your_Moments_Your_Way_banner'))
+
+WebUI.scrollToElement(findTestObject('CAB/CAB_Homepage/contact_Us_card'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/contact_Us_card'))
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_Homepage/my_Account_Card'))
+

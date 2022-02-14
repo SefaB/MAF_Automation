@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description>This object defines &quot;Find your outside state of mind&quot; banner</description>
-   <name>find_Your_Outside_banner</name>
+   <description>This object defines &quot;Top products houseware&quot; carousel from algonomy</description>
+   <name>top_Product_Housewares_carousel</name>
    <tag></tag>
-   <elementGuidId>ea3ccc0b-91a9-48ce-b2dc-300abd436fbe</elementGuidId>
+   <elementGuidId>f503d195-dbed-48ac-b569-2aab7423a0bb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;comp_00362016&quot;]</value>
+         <value>//*[@id=&quot;CabAdvancedGridAlgonomyHompageRank3&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>

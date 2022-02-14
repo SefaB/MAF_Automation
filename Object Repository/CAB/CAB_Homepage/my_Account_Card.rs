@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;CabFooterMyAccountV2-2&quot;]</value>
+         <value>//*[@id=&quot;CabAdvancedGridFooterCardsComponentV2&quot;]/div/div/div/div/div/div[2]/div[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
