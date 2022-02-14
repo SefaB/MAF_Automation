@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>homepage_leftside_navigation</name>
+   <tag></tag>
+   <elementGuidId>7511b695-60bc-483f-8cf9-86f689861c4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Cb2CategoryNavComponent']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leo-category-navigation-component leo-category-navigation-component-mega-menu-alpha xs-up:bgc=white xs-up:w=(85vw) xs-up:wmax=(318px) lg-up:w=(250px) lg-up:pr=4 lg-up:px=gutter-half lg-up:py=2 lg-up[sticky]>.menu:scrollable=y lg-up[sticky]>.menu:h=100vh lg-up&lt;&lt;.state-mega-menu-hidden:transition=all lg-up&lt;&lt;.state-mega-menu-hidden:pos=abs lg-up&lt;&lt;.state-mega-menu-hidden:tobo=0 lg-up&lt;&lt;.state-mega-menu-hidden:right=(100%) lg-up&lt;&lt;.state-mega-menu-hidden:left=(-100%) lg-up&lt;&lt;.state-mega-menu-hidden:z=99 lg-up&lt;&lt;.state-mega-menu-open:leri=0 lg-up&lt;&lt;.tpl-StaticPageTemplate:pl=5 lg-up&lt;&lt;.tpl-StaticPageTemplate:bottom=auto! lg-up>>div[leo-menu]:h=100 lg-up>>div[leo-menu]>>>div:h=100 lg-up[sticky]:h=100 lg-up[leo-nav].menu:h=100 lg-up[leo-nav].menu:scrollable=y md-down:transition=all md-down:pos=fix md-down:right=(100%) md-down:left=(-100%) md-down:scrollable=y md-down:z=99 md-down:hcalc=(100vh|-|126px) sm-down:hcalc=(100vh|-|45px) md-down:top=(126px) sm-down:top=(45px) md-down&lt;&lt;.state-mega-menu-open:leri=0 md-down&lt;&lt;.state-open-search:left=(-100%) md-down.menu:mt=(13px) md-down.menu:pl=(1.875rem) xs-up.link:d=block xs-up.link:txt-case=upper xs-up.link:ls=.06 xs-up.link:py=(9px) xs-up.link:fs=(15px) md-up.link:fs=p3 xs-up.nav-item:pl=(15px) md-up.nav-item-0:pl=0 xs-up.nav-item-1>>.link:py=1 xs-up.nav-item-1>>.link:fs=p5 xs-up.nav-item-1>>.link:ml=(9px) xs-up>>a.state-parent-active:not(.state-active):fw=semi xs-up>>a.state-active:txt-underline=yes xs-up>>a.state-active:fw=medium xs-up>>a:fw=semi xs-up>>.nav-item-1>>a:fw=light mega-menu-alpha</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NewFurnitureOutdoorDecor &amp; MirrorsLightingPillows &amp; ThrowsRugsKitchen &amp; DiningBedding &amp; BathHolidayGIFTSCollaborations</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Cb2CategoryNavComponent&quot;)/div[@class=&quot;leo-category-navigation-component leo-category-navigation-component-mega-menu-alpha xs-up:bgc=white xs-up:w=(85vw) xs-up:wmax=(318px) lg-up:w=(250px) lg-up:pr=4 lg-up:px=gutter-half lg-up:py=2 lg-up[sticky]>.menu:scrollable=y lg-up[sticky]>.menu:h=100vh lg-up&lt;&lt;.state-mega-menu-hidden:transition=all lg-up&lt;&lt;.state-mega-menu-hidden:pos=abs lg-up&lt;&lt;.state-mega-menu-hidden:tobo=0 lg-up&lt;&lt;.state-mega-menu-hidden:right=(100%) lg-up&lt;&lt;.state-mega-menu-hidden:left=(-100%) lg-up&lt;&lt;.state-mega-menu-hidden:z=99 lg-up&lt;&lt;.state-mega-menu-open:leri=0 lg-up&lt;&lt;.tpl-StaticPageTemplate:pl=5 lg-up&lt;&lt;.tpl-StaticPageTemplate:bottom=auto! lg-up>>div[leo-menu]:h=100 lg-up>>div[leo-menu]>>>div:h=100 lg-up[sticky]:h=100 lg-up[leo-nav].menu:h=100 lg-up[leo-nav].menu:scrollable=y md-down:transition=all md-down:pos=fix md-down:right=(100%) md-down:left=(-100%) md-down:scrollable=y md-down:z=99 md-down:hcalc=(100vh|-|126px) sm-down:hcalc=(100vh|-|45px) md-down:top=(126px) sm-down:top=(45px) md-down&lt;&lt;.state-mega-menu-open:leri=0 md-down&lt;&lt;.state-open-search:left=(-100%) md-down.menu:mt=(13px) md-down.menu:pl=(1.875rem) xs-up.link:d=block xs-up.link:txt-case=upper xs-up.link:ls=.06 xs-up.link:py=(9px) xs-up.link:fs=(15px) md-up.link:fs=p3 xs-up.nav-item:pl=(15px) md-up.nav-item-0:pl=0 xs-up.nav-item-1>>.link:py=1 xs-up.nav-item-1>>.link:fs=p5 xs-up.nav-item-1>>.link:ml=(9px) xs-up>>a.state-parent-active:not(.state-active):fw=semi xs-up>>a.state-active:txt-underline=yes xs-up>>a.state-active:fw=medium xs-up>>a:fw=semi xs-up>>.nav-item-1>>a:fw=light mega-menu-alpha&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Cb2CategoryNavComponent']/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[4]/following::div[24]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[3]/following::div[24]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cx-storefront/cx-page-layout/div/div/div/div/div/cx-page-slot/div[3]/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NewFurnitureOutdoorDecor &amp; MirrorsLightingPillows &amp; ThrowsRugsKitchen &amp; DiningBedding &amp; BathHolidayGIFTSCollaborations' or . = 'NewFurnitureOutdoorDecor &amp; MirrorsLightingPillows &amp; ThrowsRugsKitchen &amp; DiningBedding &amp; BathHolidayGIFTSCollaborations')]</value>
+   </webElementXpaths>
+</WebElementEntity>

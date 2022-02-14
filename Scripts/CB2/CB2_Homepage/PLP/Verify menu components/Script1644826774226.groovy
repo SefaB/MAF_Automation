@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('CB2/Common/Browser open'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('CB2/PLP/Category_L1_Furniture'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/plp_h1_Furniture'))
+
+WebUI.click(findTestObject('CB2/PLP/Category_L2_Office Furniture'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/plp_h1_Office Furniture'))
+
+WebUI.click(findTestObject('CB2/PLP/Category_L3_Office Chairs'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/plp_h1_Office Chairs'))
+
+WebUI.closeBrowser()
+

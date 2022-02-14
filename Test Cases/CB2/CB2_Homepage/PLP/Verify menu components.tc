@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case2</name>
+   <name>Verify menu components</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cc7e4eaf-3840-42ef-ae7c-d20e9c16a4a8</testCaseGuid>
+   <testCaseGuid>d1d34b28-c67a-47ba-8cd6-2e18c415c7a1</testCaseGuid>
 </TestCaseEntity>

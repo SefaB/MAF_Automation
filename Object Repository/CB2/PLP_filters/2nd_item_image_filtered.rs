@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>2nd_item_image_filtered</name>
+   <tag></tag>
+   <elementGuidId>c58971fd-c2b3-4a11-91e6-fc8da8dd11cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='undefined']/div/div/a/div/div/picture/img)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/255052-CB2WynnConcreteDeskSHF21-convert-900x600?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDE0MjEwfGltYWdlL2pwZWd8aGQ1L2g5Ny85Mjk4NzM4ODA2ODE0LzI1NTA1Ml9DQjJXeW5uQ29uY3JldGVEZXNrU0hGMjFfY29udmVydC05MDB4NjAwfDQwMTIxNzI0NGJkMzRkYjBhMjA3ZTQxZjJkZTVlODk4NmNhNDMyOTZlNDY0NTBmNDFlMWJjNzJjZTg1OTMyODI</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Wynn Ivory Concrete Desk</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProductListComponent&quot;)/div[@class=&quot;leo-product-list-component leo-product-list-component-product-grid-alpha-four-columns xs-up:product-grid:pos=rel xs-up:product-grid-col-item-inner:h=100 xs-up:product-grid-container:px=0 xs-up:product-grid-row-group:mb=5 xs-up:product-grid-col-item-inner:pos=rel xs-up.row-badges>.col-item>.col-item-inner:d=flx xs-up:product-grid-col-item-inner:pr=6 xs-up.row-image+.row:mt=gutter-half xs-up.row-image>.col-item>.col-item-inner:px=0! xs-up.row-price>>.col-item-inner:flx-col-align=top-left xs-up.row-price>>.col-item-inner>>.tile-price:flx=fill xs-up.tile-add-to-wishlist:pos=abs xs-up.tile-add-to-wishlist:right=n1 xs-up.tile-add-to-wishlist:top=n1 xs-up.tile-variant-selector-simple>>.variant-group:mb=3 xs-up.tile-variant-selector-advanced>>.features-group:mb=3 xs-up.tile-variant-selected-item>>.variant-list:mb=3 xs-up.tile-name>>.name:mb=2 xs-up.tile-summary>>.summary:mb=3 xs-up.tile-price+.tile:mt=3 xs-up.tile-stock-badge-cta:mt=0! xs-up.tile-stock-badge-cta:flx=fill xs-up.tile-stock-badge-cta+.tile:mt=3 xs-up:product-grid-alpha-two-columns md-up:product-grid-alpha-three-columns lg-up:product-grid-alpha-two-columns xl-up:product-grid-alpha-three-columns xxl-up:product-grid-alpha-four-columns&quot;]/div[1]/div[@class=&quot;container container-grid&quot;]/div[@class=&quot;row-group&quot;]/div[@class=&quot;row row-image&quot;]/div[@class=&quot;col-item col-3&quot;]/div[@class=&quot;col-item-inner&quot;]/div[@class=&quot;tile tile-image&quot;]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-image-component leo-product-image-component-product-image-alpha xs-up.product-images:scrollable=none xs-up.product-images:pos=rel xs-up.product-images:cursor=pointer xs-up.product-images>>img:w=100 xs-up.product-rollover-image:w=100 xs-up.product-rollover-image:pos=abs xs-up.product-rollover-image:top=0 xs-up.product-rollover-image:left=0 xs-up.rollover>>[leo-media]:transition=opacity xs-up.rollover>>.product-rollover-image:opacity=0 xs-up.rollover.product-images:hover>>.product-image:opacity=0 xs-up.rollover.product-images:hover>>.product-rollover-image:opacity=100 xs-up:h=100 xs-up>div:h=100 xs-up.product-images.rollover:d=flx xs-up.is-missing:h=100 xs-up.media-placeholder:h=100 product-image-alpha&quot;]/div[1]/a[@class=&quot;product-images&quot;]/div[@class=&quot;product-image is-initialized&quot;]/div[1]/picture[1]/img[@class=&quot;xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='undefined']/div/div/a/div/div/picture/img)[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Wynn Ivory Concrete Desk']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/a/div/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/255052-CB2WynnConcreteDeskSHF21-convert-900x600?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDE0MjEwfGltYWdlL2pwZWd8aGQ1L2g5Ny85Mjk4NzM4ODA2ODE0LzI1NTA1Ml9DQjJXeW5uQ29uY3JldGVEZXNrU0hGMjFfY29udmVydC05MDB4NjAwfDQwMTIxNzI0NGJkMzRkYjBhMjA3ZTQxZjJkZTVlODk4NmNhNDMyOTZlNDY0NTBmNDFlMWJjNzJjZTg1OTMyODI' and @alt = 'Wynn Ivory Concrete Desk']</value>
+   </webElementXpaths>
+</WebElementEntity>

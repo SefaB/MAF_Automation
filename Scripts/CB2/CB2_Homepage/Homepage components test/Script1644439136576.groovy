@@ -17,3 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('CB2/Common/Browser open'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('CB2/homepage_banner_2'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/search_input_homepage'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/hompage_logo'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/profile_wishlist_cart_block'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/homepage_leftside_navigation'))
+
+WebUI.verifyElementPresent(findTestObject('CB2/homepage_promotion'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CB2/homepage_banner_1'))
+
+WebUI.scrollToElement(findTestObject('CB2/homepage_banner_2'), 0)
+
+WebUI.scrollToElement(findTestObject('CB2/homepage_banner_3'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CB2/homepage_banner_3'))
+
+WebUI.scrollToElement(findTestObject('CB2/our_radar_section'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CB2/our_radar_section'))
+
+WebUI.closeBrowser()
+

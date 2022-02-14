@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>homepage_banner_2</name>
+   <tag></tag>
+   <elementGuidId>719352ae-c984-4fa2-8d4b-f67a53b34e4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp_00349043']/div/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12 col-first col-last col-item</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SHOP BEDROOM FURNITUREBEAUTY IS  IN THE DETAILSSHOP BEDROOM FURNITURE</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp_00349043&quot;)/div[@class=&quot;leo-advanced-grid-component leo-advanced-grid-component-grid-default xs-up:grid:pos=rel xs-up:grid-bg:pos-overlay=abs xs-up:grid-bg-img:w=100 xs-up:grid-bg-img:h=100 xs-up:grid-bg-img:pos=abs xs-up:grid-bg-img:ofit=cover xs-up:grid-bg-img:opos=center xs-up:grid-col-item:mx=auto xs-up:grid-col-components:h=100 xs-up:none md-up:grid-default&quot;]/div[1]/div[@class=&quot;sticky&quot;]/div[@class=&quot;wrapper-grid&quot;]/div[@class=&quot;container-grid container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-first col-last col-item&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp_00349043']/div/div/div/div/div/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIGN UP'])[2]/following::div[44]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Sign up and get 20% off your first purchase*. Use code ', '&quot;', 'HELLO20', '&quot;', '')])[1]/following::div[48]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SHOP BEDROOM FURNITUREBEAUTY IS  IN THE DETAILSSHOP BEDROOM FURNITURE' or . = 'SHOP BEDROOM FURNITUREBEAUTY IS  IN THE DETAILSSHOP BEDROOM FURNITURE')]</value>
+   </webElementXpaths>
+</WebElementEntity>

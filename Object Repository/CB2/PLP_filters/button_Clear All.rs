@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Clear All</name>
+   <tag></tag>
+   <elementGuidId>f3ab3354-2766-4e00-b989-db8f7e3fbc99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-clear-all-filters</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Clear All' or . = 'Clear All')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-clear-all-filters</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clear All</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProductSearchAppliedFiltersProductListComponent&quot;)/div[@class=&quot;leo-product-search-applied-filters-component leo-product-search-applied-filters-component-product-search-applied-filters-alpha xs-up[leo-product-search-applied-filters]:d=flx xs-up[leo-product-search-applied-filters]:flx-wrap=yes xs-up>>button:cursor=pointer sm-down:flx-row-align=center-right xs-up>>button:mb=2 xs-up>>button:mr=2 xs-up.btn-clear-all-filters:btn=body xs-up.btn-clear-all-filters:btn-size=small xs-up.btn-clear-all-filters:txt-underline=yes xs-up.btn-clear-all-filters:px=0 xs-up.btn-clear-all-filters:pt=0 md-up.btn-clear-all-filters:py=0 md-up.btn-clear-all-filters:mb=3 sm-down.btn-clear-all-filters:mb=4 sm-down.btn-clear-all-filters:mr=0 sm-down.btn-clear-all-filters:fw=normal xs-up.btn-clear-filter:btn=light xs-up.btn-clear-filter:btn-size=small xs-up.btn-clear-filter:lh=1.25 xs-up.btn-clear-filter:icon-after=cross xs-up.btn-clear-filter:after:ml=2 sm-down.btn-clear-filter:fs=(11px) sm-down.btn-clear-filter:after:fs=p5 xs-up.btn-clear-filter:d=none xs-up:none md-up:product-search-applied-filters-alpha&quot;]/div[1]/button[@class=&quot;btn-clear-all-filters&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ProductSearchAppliedFiltersProductListComponent']/div/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[3]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[3]/following::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED 5000 - AED 10000'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[1]/preceding::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Clear All' or . = 'Clear All')]</value>
+   </webElementXpaths>
+</WebElementEntity>
