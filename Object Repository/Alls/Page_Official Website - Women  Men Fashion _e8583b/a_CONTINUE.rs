@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Printed Dresses</name>
+   <name>a_CONTINUE</name>
    <tag></tag>
-   <elementGuidId>aa99b2b5-4fa7-4e6b-85da-cda80e4b8221</elementGuidId>
+   <elementGuidId>fcb172b5-e0e8-40c5-8c05-37f684971864</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='AllsFlex-CategoryDynamicLinks']/div/app-related-categories/div/a[6]</value>
+         <value>//div[@id='AllsSignInToYourAccountLink']/div/div/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -38,87 +38,101 @@
       <value>link</value>
    </webElementProperties>
    <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-content</name>
+      <type>Main</type>
+      <value>CONTINUE</value>
+   </webElementProperties>
+   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/en-ae/c/women/women-clothing/women-dresses/women-dresses-printed-dresses</value>
+      <value>/en-ae/login</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Printed Dresses</value>
+      <value>CONTINUE</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AllsFlex-CategoryDynamicLinks&quot;)/div[@class=&quot;leo-category-list-component leo-category-list-component-collection-list-beta xs-up:scrollable=hidden xs-up.wrapper:d=flx xs-up.wrapper:scrollable=x xs-up.link:pos=rel xs-up.link:icon-after=underline-left-to-right-scale xs-up.link:after:bw-bottom=(1px) xs-up.link:after:d=block xs-up.link:hover:txt-underline=no xs-up.link:hover:icon-after=underline-left-to-right xs-up.link:mr=5 xs-up.link:lh=1 xs-up.link:mb=(1.25rem) xs-up.link:ls=.1 xs-up.link:fs=(1.09rem) xs-up.link:fw=medium xs-up.link:txt-case=upper xs-up.link:txt-wrap=no xs-up.link:after:bottom=n1 collection-list-beta&quot;]/app-related-categories[1]/div[@class=&quot;wrapper&quot;]/a[@class=&quot;link&quot;]</value>
+      <value>id(&quot;AllsSignInToYourAccountLink&quot;)/div[@class=&quot;leo-link-component leo-link-component-btn-link-alpha xs-up.link:btn-outline=alpha xs-up.link:fc=alpha! xs-up.link:bgc=body! xs-up.link:fs=p4! xs-up.link:d=inblock xs-up.link:mt=3 xs-up.link:txt-case=upper xs-up.link:txt-align=center xs-up.link:ls=(0.5px) md-up.link:ls=(1px) xs-up.link:h=(3.25rem) md-up.link:h=auto xs-up.link:w=(20rem) md-up.link:w=auto xs-up.link:bw=(1px) md-up.link:bw-top=0 md-up.link:bw-right=0 md-up.link:bw-left=0 md-up.link:fw=normal md-up.link:px=0 md-up.link:py=(2px) xs-up.link:focus:bs=none btn-link-alpha&quot;]/div[1]/a[@class=&quot;link&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/iframe_COPYRIGHT  2021 ALLSAINTS ALL RIGHTS_11e78b</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='AllsFlex-CategoryDynamicLinks']/div/app-related-categories/div/a[6]</value>
+      <value>//div[@id='AllsSignInToYourAccountLink']/div/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Printed Dresses')]</value>
+      <value>(//a[contains(text(),'CONTINUE')])[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Occasion Dresses'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Midi Dresses'])[1]/following::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUE'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Printed Dresses']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Customer'])[1]/preceding::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/en-ae/c/women/women-clothing/women-dresses/women-dresses-printed-dresses')]</value>
+      <value>(//a[contains(@href, '/en-ae/login')])[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a[6]</value>
+      <value>//div[2]/div/div/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/en-ae/c/women/women-clothing/women-dresses/women-dresses-printed-dresses' and (text() = 'Printed Dresses' or . = 'Printed Dresses')]</value>
+      <value>//a[@href = '/en-ae/login' and (text() = 'CONTINUE' or . = 'CONTINUE')]</value>
    </webElementXpaths>
 </WebElementEntity>

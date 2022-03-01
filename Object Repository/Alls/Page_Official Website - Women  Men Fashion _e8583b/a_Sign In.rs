@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_T-Shirts</name>
+   <name>a_Sign In</name>
    <tag></tag>
-   <elementGuidId>3451e514-ceb4-4dc9-8450-062e18e8a410</elementGuidId>
+   <elementGuidId>8ae3947e-b080-43e3-a1c2-f4d2782521eb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='AllsLinkClothingWomenTShirts']/div/div/a</value>
+         <value>//div[@id='SignInLink']/div/div/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -35,104 +35,83 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>link</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-content</name>
-      <type>Main</type>
-      <value>T-Shirts</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/en-ae/c/women/women-clothing/women-t-shirts</value>
+      <value>link xs-up:cursor=pointer</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>T-Shirts</value>
+      <value>Sign In</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AllsLinkClothingWomenTShirts&quot;)/div[@class=&quot;leo-link-component leo-link-component-link-zeta xs-up:ff=beta xs-up:fs=(1.667rem) xs-up:fw=medium xs-up:my=(3px) xs-up:lh=(1.4) md-up:pt=2 md-up:pb=1 md-up:py=1 xs-up.link:pos=rel xs-up.link:icon-after=underline-left-to-right xs-up.link:after:bw-bottom=(1px) xs-up.link:after:d=block xs-up.link:hover:txt-underline=no xs-up.link:hover:icon-after=underline-left-to-right-scale xs-up.link>>sup:fs=p5 xs-up.link>>sup:pb=3 xs-up.link>>sup:ml=3 xs-up.link>>sup:top=n-gutter-half xs-up.link:after:bottom=0 link-zeta&quot;]/div[1]/a[@class=&quot;link&quot;]</value>
+      <value>id(&quot;SignInLink&quot;)/div[@class=&quot;leo-link-component leo-link-component-btn-modal-alpha xs-up:fs=p4 xxl-up:fs=(1.17rem) xs-up:fw=medium xs-up:txt-case=upper xs-up:lh=1.375 xs-up:mx=2 xs-up.link:d=flx xs-up.link:pos=rel xs-up.link:py=2 xs-up.link:mx=auto xs-up.link:flx-dir=col xs-up.link:icon-after=underline-left-to-right xs-up.link:after:bw-bottom=(1px) xs-up.link:after:d=block xs-up.link:hover:txt-underline=no xs-up.link:hover:icon-after=underline-left-to-right-scale xs-up.link:after:bottom=0 xs-up.link:txt-case=upper xs-up:d=none md-up:btn-modal-alpha md-up:d=block&quot;]/div[1]/a[@class=&quot;link xs-up:cursor=pointer&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='AllsLinkClothingWomenTShirts']/div/div/a</value>
+      <value>//div[@id='SignInLink']/div/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'T-Shirts')]</value>
+      <value>//a[contains(text(),'Sign In')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tops &amp; Shirts'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALLSAINTS'])[2]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dresses'])[1]/following::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/following::a[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skirts &amp; Shorts'])[1]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swimwear'])[1]/preceding::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Something catch your eye?'])[1]/preceding::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='T-Shirts']/parent::*</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '/en-ae/c/women/women-clothing/women-t-shirts')]</value>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ul[3]/li/div/div/div/div/div/a</value>
+      <value>//div[5]/cx-page-slot/div/div/div/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/en-ae/c/women/women-clothing/women-t-shirts' and (text() = 'T-Shirts' or . = 'T-Shirts')]</value>
+      <value>//a[(text() = 'Sign In' or . = 'Sign In')]</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -17,25 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.verifyElementVisible(findTestObject('Alls/Page_Official Website - Women  Men Fashion _e8583b (1)/span_Women'))
 
-WebUI.navigateToUrl('https://alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae')
+WebUI.mouseOver(findTestObject('Alls/Page_Official Website - Women  Men Fashion _e8583b (1)/span_Women'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/button_Accept Cookies'))
+WebUI.verifyElementVisible(findTestObject('Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Tops  Shirts'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Women'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/ul_ClothingDressesTops  ShirtsT-ShirtsSkirt_0c362e'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/ul_Shoes And AccessoriesAll ShoesAll Access_bae106'))
-
-WebUI.click(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_Dresses'))
-
-//alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae/c/women/women-clothing/women-dresses = 
-https: WebUI.getUrl()
-
-https://alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae/c/women/women-clothing/women-dresses = 
-WebUI.getUrl()
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Tops  Shirts'))
 

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_2-In-1 Dresses</name>
+   <name>a_T-Shirts</name>
    <tag></tag>
-   <elementGuidId>8803d62d-b2b9-419f-91b7-86da00da0712</elementGuidId>
+   <elementGuidId>3451e514-ceb4-4dc9-8450-062e18e8a410</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='AllsFlex-CategoryDynamicLinks']/div/app-related-categories/div/a[2]</value>
+         <value>//div[@id='AllsLinkClothingWomenTShirts']/div/div/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -38,94 +37,101 @@
       <value>link</value>
    </webElementProperties>
    <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-content</name>
+      <type>Main</type>
+      <value>T-Shirts</value>
+   </webElementProperties>
+   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/en-ae/c/women/women-clothing/women-dresses/women-dresses-2-in-one-dresses</value>
+      <value>/en-ae/c/women/women-clothing/women-t-shirts</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>2-In-1 Dresses</value>
+      <value>T-Shirts</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AllsFlex-CategoryDynamicLinks&quot;)/div[@class=&quot;leo-category-list-component leo-category-list-component-collection-list-beta xs-up:scrollable=hidden xs-up.wrapper:d=flx xs-up.wrapper:scrollable=x xs-up.link:pos=rel xs-up.link:icon-after=underline-left-to-right-scale xs-up.link:after:bw-bottom=(1px) xs-up.link:after:d=block xs-up.link:hover:txt-underline=no xs-up.link:hover:icon-after=underline-left-to-right xs-up.link:mr=5 xs-up.link:lh=1 xs-up.link:mb=(1.25rem) xs-up.link:ls=.1 xs-up.link:fs=(1.09rem) xs-up.link:fw=medium xs-up.link:txt-case=upper xs-up.link:txt-wrap=no xs-up.link:after:bottom=n1 collection-list-beta&quot;]/app-related-categories[1]/div[@class=&quot;wrapper&quot;]/a[@class=&quot;link&quot;]</value>
+      <value>id(&quot;AllsLinkClothingWomenTShirts&quot;)/div[@class=&quot;leo-link-component leo-link-component-link-zeta xs-up:ff=beta xs-up:fs=(1.667rem) xs-up:fw=medium xs-up:my=(3px) xs-up:lh=(1.4) md-up:pt=2 md-up:pb=1 md-up:py=1 xs-up.link:pos=rel xs-up.link:icon-after=underline-left-to-right xs-up.link:after:bw-bottom=(1px) xs-up.link:after:d=block xs-up.link:hover:txt-underline=no xs-up.link:hover:icon-after=underline-left-to-right-scale xs-up.link>>sup:fs=p5 xs-up.link>>sup:pb=3 xs-up.link>>sup:ml=3 xs-up.link>>sup:top=n-gutter-half xs-up.link:after:bottom=0 link-zeta&quot;]/div[1]/a[@class=&quot;link&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='AllsFlex-CategoryDynamicLinks']/div/app-related-categories/div/a[2]</value>
+      <value>//div[@id='AllsLinkClothingWomenTShirts']/div/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'2-In-1 Dresses')]</value>
+      <value>//a[contains(text(),'T-Shirts')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Dresses'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tops &amp; Shirts'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='less'])[1]/following::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dresses'])[1]/following::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maxi Dresses'])[1]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skirts &amp; Shorts'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Midi Dresses'])[1]/preceding::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swimwear'])[1]/preceding::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='2-In-1 Dresses']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='T-Shirts']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/en-ae/c/women/women-clothing/women-dresses/women-dresses-2-in-one-dresses')]</value>
+      <value>//a[contains(@href, '/en-ae/c/women/women-clothing/women-t-shirts')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/a[2]</value>
+      <value>//ul[3]/li/div/div/div/div/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/en-ae/c/women/women-clothing/women-dresses/women-dresses-2-in-one-dresses' and (text() = '2-In-1 Dresses' or . = '2-In-1 Dresses')]</value>
+      <value>//a[@href = '/en-ae/c/women/women-clothing/women-t-shirts' and (text() = 'T-Shirts' or . = 'T-Shirts')]</value>
    </webElementXpaths>
 </WebElementEntity>
