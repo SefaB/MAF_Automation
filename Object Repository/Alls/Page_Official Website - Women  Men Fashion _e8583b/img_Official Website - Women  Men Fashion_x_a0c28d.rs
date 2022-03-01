@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Official Website - Women  Men Fashion_x_a0c28d</name>
+   <tag></tag>
+   <elementGuidId>a7a1faff-5cd1-45ff-93f6-e75130e93f59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp_00349116']/div/div/div/div/div/div/div/div/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/AS-FW10.21-P1-HPBanner-Mobile.jpg?context=bWFzdGVyfHJvb3R8MzIxNzk1fGltYWdlL2pwZWd8aGJmL2hjOS85NDIzMTUwODc0NjU0L0FTX0ZXMTAuMjFfUDFfSFBCYW5uZXJfTW9iaWxlLmpwZ3w4ZGU2ZTNjZmIzMGMzNTBhMzA4YTNhNzg4NDVkNmQ4NzNmZmZiNGZjMGVlZjY5MDYzOTQ4OWUwNDQzZDdmYWZj 0w, https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/AS-FW10.21-P1-HPBanner-Desktop.jpg?context=bWFzdGVyfHJvb3R8Nzc0Mjc5fGltYWdlL2pwZWd8aDg5L2g1Ni85NDIzMTU2NjA5MDU0L0FTX0ZXMTAuMjFfUDFfSFBCYW5uZXJfRGVza3RvcC5qcGd8YTdlYWI3NjliYjI1MmY4ZGRhNzgzNzEyYzRkZTUyMmFjNTA2YWYzOTBjOWNkNmNlY2NlNGNjODUyMTg4OWY3Yw 768w</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/AS-FW10.21-P1-HPBanner-Desktop.jpg?context=bWFzdGVyfHJvb3R8Nzc0Mjc5fGltYWdlL2pwZWd8aDg5L2g1Ni85NDIzMTU2NjA5MDU0L0FTX0ZXMTAuMjFfUDFfSFBCYW5uZXJfRGVza3RvcC5qcGd8YTdlYWI3NjliYjI1MmY4ZGRhNzgzNzEyYzRkZTUyMmFjNTA2YWYzOTBjOWNkNmNlY2NlNGNjODUyMTg4OWY3Yw</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comp_00349116&quot;)/div[@class=&quot;leo-advanced-grid-component leo-advanced-grid-component-grid-iota xs-up:grid:pos=rel xs-up:grid-bg:pos-overlay=abs xs-up:grid-bg-img:w=100 xs-up:grid-bg-img:h=100 xs-up:grid-bg-img:pos=abs xs-up:grid-bg-img:ofit=cover xs-up:grid-bg-img:opos=center xs-up:grid-col-item:not([class*=&quot;offset&quot;]):mx=auto xs-up:grid-col-components:h=100 xs-up:grid-col-components:h=auto xs-up>>[leo-grid]:mb=0! xs-up:grid-container:px=0 xs-up:grid-bg:pos=static xs-up:grid-bg-img:pos=static xs-up:grid-row:mx=0 xs-up:grid-row:pos=abs xs-up:grid-row:leri=0 xs-up:grid-row:top=(50%) xs-up:grid-row:translate-y=n50 xs-up:grid-col-item:p=0 grid-iota&quot;]/div[1]/div[@class=&quot;sticky&quot;]/div[@class=&quot;wrapper-grid has-bg-image&quot;]/div[@class=&quot;container-grid container-fluid&quot;]/div[@class=&quot;grid-banner&quot;]/div[@class=&quot;grid-bg is-initialized&quot;]/div[1]/picture[1]/img[@class=&quot;xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp_00349116']/div/div/div/div/div/div/div/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/AS-FW10.21-P1-HPBanner-Desktop.jpg?context=bWFzdGVyfHJvb3R8Nzc0Mjc5fGltYWdlL2pwZWd8aDg5L2g1Ni85NDIzMTU2NjA5MDU0L0FTX0ZXMTAuMjFfUDFfSFBCYW5uZXJfRGVza3RvcC5qcGd8YTdlYWI3NjliYjI1MmY4ZGRhNzgzNzEyYzRkZTUyMmFjNTA2YWYzOTBjOWNkNmNlY2NlNGNjODUyMTg4OWY3Yw')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/AS-FW10.21-P1-HPBanner-Desktop.jpg?context=bWFzdGVyfHJvb3R8Nzc0Mjc5fGltYWdlL2pwZWd8aDg5L2g1Ni85NDIzMTU2NjA5MDU0L0FTX0ZXMTAuMjFfUDFfSFBCYW5uZXJfRGVza3RvcC5qcGd8YTdlYWI3NjliYjI1MmY4ZGRhNzgzNzEyYzRkZTUyMmFjNTA2YWYzOTBjOWNkNmNlY2NlNGNjODUyMTg4OWY3Yw']</value>
+   </webElementXpaths>
+</WebElementEntity>

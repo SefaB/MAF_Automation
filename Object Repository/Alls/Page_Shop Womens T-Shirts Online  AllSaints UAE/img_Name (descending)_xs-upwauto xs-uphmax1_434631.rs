@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Name (descending)_xs-upwauto xs-uphmax1_434631</name>
+   <tag></tag>
+   <elementGuidId>05211f00-497a-4bf6-876f-c86fb93d8977</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='undefined']/div/div/a/div[2]/div/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/WG035V-839-2.jpg-convert-900x600?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDE4NTU3OXxpbWFnZS9qcGVnfGgxZC9oZTgvOTMzNDU3NjQ4MDI4Ni9XRzAzNVYtODM5LTIuanBnX2NvbnZlcnQtOTAweDYwMHxhZTIxYTE2NWQ0Yjk2ZjFmYzlhM2U0NWQ5MzI1NGVmZWY1NjMxZGI1MGFiNDNkMGIzMzNhYWQ1OGJiOTEyY2Yx</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Make It Imogen Boy T-Shirt</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProductListComponent&quot;)/div[@class=&quot;leo-product-list-component leo-product-list-component-product-grid-alpha-three-columns xs-up:product-grid:pos=rel xs-up:product-grid-col-item-inner:h=100 xs-up:ff=beta xs-up:hmin=(400px) md-up:hmin=(500px) lg-up:hmin=(700px) xs-up:product-grid-container:px=4 lg-up:product-grid-container:px=(5.5rem) lg-up:product-grid-container:wmax=100 xs-up:product-grid-row-group:mb=5 xs-up:product-grid-col-item-inner:d=flx xs-up:product-grid-col-item-inner:flx-dir=col xs-up:product-grid-col-item-inner:pos=rel xs-up:product-grid-col-item-inner:pr=0 md-up:product-grid-col-item-inner:pr=6 xs-up:product-grid-col-item-inner:pl=0 md-up:product-grid-col-item-inner:pl=0 lg-up:product-grid-col-item-inner:pl=0 xs-up.row-image+.row:mt=5 xs-up.row-image>.col-item>.col-item-inner:px=0! md-up.row-add-to-wishlist>>.col-item:hover>>.tile-add-to-wishlist:d=flx lg-up.tile-add-to-wishlist:d=none xs-up.tile-add-to-wishlist:pos-align=top-right xs-up.tile-add-to-wishlist>>.btn-wishlist:before:square=(1.333rem) xs-up.tile-add-to-wishlist:bottom=auto md-down>>.col-6>>.tile-add-to-wishlist:bottom=2 md-down>>.col-6>>.tile-add-to-wishlist:top=auto lg-up.tile-add-to-wishlist:top=n1 xs-up.tile-variant-selector-advanced>>.features-group:mb=3 xs-up.tile-variant-selected-item>>.variant-list:mb=3 xs-up.tile-name:pr=7 md-down>>.col-6>>.tile-name:pr=0 xs-up.tile-summary>>.summary:mb=3 xs-up.tile-add-to-cart:mt=auto xs-up.tile-image:d=flx xs-up.tile-image:h=100 xs-up.tile-image>div:w=100 xs-up:product-grid-alpha-two-columns lg-up:product-grid-alpha-three-columns md-down.tile-variant-selector-simple>>.size:d=none&quot;]/div[1]/div[@class=&quot;container container-grid&quot;]/div[@class=&quot;row-group&quot;]/div[@class=&quot;row row-image row-discount-badge&quot;]/div[@class=&quot;col-item col-4&quot;]/div[@class=&quot;col-item-inner&quot;]/div[@class=&quot;tile tile-image&quot;]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-image-component leo-product-image-component-product-image-alpha xs-up.product-images:scrollable=none xs-up.product-images:pos=rel xs-up.product-images:cursor=pointer xs-up.product-images>>img:w=100 xs-up.product-rollover-image:w=100 xs-up.product-rollover-image:pos=abs xs-up.product-rollover-image:top=0 xs-up.product-rollover-image:left=0 xs-up.rollover>>[leo-media]:transition=opacity xs-up.rollover>>.product-rollover-image:opacity=0 xs-up.rollover.product-images:hover>>.product-image:opacity=0 xs-up.rollover.product-images:hover>>.product-rollover-image:opacity=100 xs-up:h=100 xs-up>div:h=100 xs-up.product-images.rollover:d=block xs-up.is-missing:h=100 xs-up.media-placeholder:h=100 xs-up&lt;&lt;.selected-combination-disabled:grayscale=full xs-up&lt;&lt;.selected-combination-disabled:pointer-events=disabled product-image-alpha&quot;]/div[1]/a[@class=&quot;product-images rollover&quot;]/div[@class=&quot;product-rollover-image is-initialized&quot;]/div[1]/picture[1]/img[@class=&quot;xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='undefined']/div/div/a/div[2]/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Make It Imogen Boy T-Shirt'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/WG035V-839-2.jpg-convert-900x600?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDE4NTU3OXxpbWFnZS9qcGVnfGgxZC9oZTgvOTMzNDU3NjQ4MDI4Ni9XRzAzNVYtODM5LTIuanBnX2NvbnZlcnQtOTAweDYwMHxhZTIxYTE2NWQ0Yjk2ZjFmYzlhM2U0NWQ5MzI1NGVmZWY1NjMxZGI1MGFiNDNkMGIzMzNhYWQ1OGJiOTEyY2Yx' and @alt = 'Make It Imogen Boy T-Shirt']</value>
+   </webElementXpaths>
+</WebElementEntity>

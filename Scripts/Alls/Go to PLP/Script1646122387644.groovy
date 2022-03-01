@@ -17,3 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.verifyElementVisible(findTestObject('Alls/Page_Official Website - Women  Men Fashion _e8583b (1)/span_Women'))
+
+WebUI.mouseOver(findTestObject('Alls/Page_Official Website - Women  Men Fashion _e8583b (1)/span_Women'))
+
+WebUI.verifyElementVisible(findTestObject('Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Tops  Shirts'))
+
+WebUI.click(findTestObject('Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Tops  Shirts'))
+
