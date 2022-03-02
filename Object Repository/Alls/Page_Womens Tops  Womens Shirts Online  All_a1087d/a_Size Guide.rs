@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_MEN</name>
+   <name>a_Size Guide</name>
    <tag></tag>
-   <elementGuidId>54462288-265b-4d73-98d9-311c7524700c</elementGuidId>
+   <elementGuidId>3d63823d-1189-4810-bbcd-4328bc87e4eb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='cmsitem_00349129']/div/div/a</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[@id='AllsLinkSizeGuide']/div/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -41,97 +42,97 @@
       <matchCondition>equals</matchCondition>
       <name>data-content</name>
       <type>Main</type>
-      <value>MEN</value>
+      <value>Size Guide</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/en-ae/c/men</value>
+      <value>/en-ae/size-guide-women</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>MEN</value>
+      <value>Size Guide</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cmsitem_00349129&quot;)/div[@class=&quot;leo-link-component leo-link-component-btn-transparent-white xs-up.link:ff=alpha xs-up.link:btn-outline=white xs-up.link:bgc=transparent xs-up.link:lh=(1.3)! xs-up.link:hover:fc=alpha! sm-up.link:wmin=(14rem) xs-up.link:hover:bgc=white-60! btn-transparent-white xs-up:mt=5 lg-up:mt=6 xxl-up:mt=7 xl-up:mx=3 xxl-up:mx=5 xs-up:d=none md-up:d=block sm-up:mx=(2.37rem)&quot;]/div[1]/a[@class=&quot;link&quot;]</value>
+      <value>id(&quot;AllsLinkSizeGuide&quot;)/div[@class=&quot;leo-link-component leo-link-component-link-beta xs-up:fs=(1.65rem) xs-up:ff=beta xs-up.link:pos=rel xs-up.link:icon-after=underline-left-to-right xs-up.link:after:bw-bottom=(1px) xs-up.link:after:d=block xs-up.link:hover:txt-underline=no xs-up.link:hover:icon-after=underline-left-to-right-scale xs-up.link:after:bottom=n1 link-beta&quot;]/div[1]/a[@class=&quot;link&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cmsitem_00349129']/div/div/a</value>
+      <value>//div[@id='AllsLinkSizeGuide']/div/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'MEN')])[2]</value>
+      <value>//a[contains(text(),'Size Guide')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='WOMEN'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping and FAQs'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autumn Collection now launched'])[1]/following::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returns &amp; Exchange'])[1]/following::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Women'])[1]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Track Order'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dresses'])[1]/preceding::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='MEN']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='Size Guide']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/en-ae/c/men')])[2]</value>
+      <value>//a[contains(@href, '/en-ae/size-guide-women')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/div/a</value>
+      <value>//div/div[4]/div/div/div/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/en-ae/c/men' and (text() = 'MEN' or . = 'MEN')]</value>
+      <value>//a[@href = '/en-ae/size-guide-women' and (text() = 'Size Guide' or . = 'Size Guide')]</value>
    </webElementXpaths>
 </WebElementEntity>

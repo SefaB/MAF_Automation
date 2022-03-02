@@ -1,3 +1,34 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_Sign In",
+      "brokenLocator": "//div[@id\u003d\u0027SignInLink\u0027]/div/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027ALLSAINTS\u0027])[2]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_Sign In_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_id(ProductListComponent)divclassleo-pro_9dd190",
+      "brokenLocator": "//div[@id\u003d\u0027katalon-rec_elementInfoDiv\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027COPYRIGHT © 2021 ALLSAINTS ALL RIGHTS RESERVED*ORDERS BEFORE 7PM\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_id(ProductListComponent)divclassleo-pro_9dd190_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_43 OFF",
+      "brokenLocator": "//div[@id\u003d\u0027ProductListComponent\u0027]/div/div/div/div[6]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Add to Bag\u0027])[15]/following::div[35]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_43 OFF_neighbor.png"
+    }
+  ]
 }

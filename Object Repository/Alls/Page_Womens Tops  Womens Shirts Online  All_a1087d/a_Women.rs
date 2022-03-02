@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_WOMEN</name>
+   <name>a_Women</name>
    <tag></tag>
-   <elementGuidId>ac4911a2-3f22-4a5b-ab4c-4c436fb3b415</elementGuidId>
+   <elementGuidId>c1a93b85-6a4e-456a-a951-033bfdb889ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='cmsitem_00349128']/div/div/a</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[@id='AllsBreadcrumbComponent']/div/div/div/div/div/div/ul/li[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -30,20 +31,6 @@
       <value>link</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>link</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-content</name>
-      <type>Main</type>
-      <value>WOMEN</value>
-   </webElementProperties>
-   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
@@ -55,83 +42,76 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>WOMEN</value>
+      <value>Women</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cmsitem_00349128&quot;)/div[@class=&quot;leo-link-component leo-link-component-btn-transparent-white xs-up.link:ff=alpha xs-up.link:btn-outline=white xs-up.link:bgc=transparent xs-up.link:lh=(1.3)! xs-up.link:hover:fc=alpha! sm-up.link:wmin=(14rem) xs-up.link:hover:bgc=white-60! btn-transparent-white xs-up:mt=5 lg-up:mt=6 xxl-up:mt=7 xl-up:mx=3 xxl-up:mx=5 xs-up:d=none md-up:d=block sm-up:mx=(2.37rem)&quot;]/div[1]/a[@class=&quot;link&quot;]</value>
+      <value>id(&quot;AllsBreadcrumbComponent&quot;)/div[@class=&quot;leo-breadcrumb-component leo-breadcrumb-component-breadcrumb-alpha xs-up:fs=p4 xs-up:pos=rel xs-up:z=1 xs-up.container:my=4 xs-up>>ul:list-style=none xs-up>>ul:flx-row-align=center-left xs-up>>ul:flx-wrap=yes xs-up>>li:not(:first-child):icon-before=slash-right xs-up>>li:fc=beta xs-up>>li:before:fc=dark xs-up>>li:before:px=(0.34rem) xs-up>>li[itemscope]:txt-case=upper xs-up>>a:fc=alpha xs-up>>a:hover:txt-underline=no xs-up>>h1:fs=h3 xs-up>>h1:ls=.6 xs-up>>h1:lh=(1.1) xs-up>>h1:ff=beta xs-up>>h1:fw=light xs-up>>h1:mt=5 xs-up>>h1:mb=4 xs-up>>h1:txt-align=center xs-up.static-page-template>>ul:d=none xs-up.static-page-template>>.container:wmax=normal xs-up.account-page-template:d=none xs-up.register-page-template:d=none xs-up.static-page-template-about-us:d=none xs-up.landing-page2-template:d=none xs-up.login-page-template:d=none xs-up.cart-page-template:d=none xs-up.search-results-list-page-template:d=none xs-up.content-page1-template>>h1:d=none xs-up.category-page-level1-template:d=none xs-up.error-page-template:d=none xs-up.store-finder-page-template:d=none xs-up.static-page-template-all:d=none xs-up.static-page-template-women-beta:d=none xs-up.static-page-template-men-beta:d=none xs-up.static-page-template-features:d=none xs-up.static-page-template-not-for-sale:d=none xs-up.product-list-page-template>>.container:wmax=100 xs-up.product-list-page-template>>.container:px=(1.3rem) md-up.product-list-page-template>>.container:px=(2.3rem) xs-up.static-page-template-guest-order:ff=beta xs-up.static-page-template-guest-order:py=3 xs-up.static-page-template-guest-order>>h1:ls=.4 xs-up.product-details-page-template:px=2 xs-up.static-page-template-features-denim-guide:d=none breadcrumb-alpha xs-up.product-list-page-template:d=block!&quot;]/div[1]/div[@class=&quot;product-list-page-template product-list-page-template-product-list&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/ul[1]/li[2]/a[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cmsitem_00349128']/div/div/a</value>
+      <value>//div[@id='AllsBreadcrumbComponent']/div/div/div/div/div/div/ul/li[2]/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'WOMEN')]</value>
+      <value>//a[contains(text(),'Women')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autumn Collection now launched'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='A new mood.'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEN'])[1]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[4]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Women'])[1]/preceding::a[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='WOMEN']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clothing'])[2]/preceding::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/en-ae/c/women')])[2]</value>
+      <value>(//a[contains(@href, '/en-ae/c/women')])[21]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/a</value>
+      <value>//li[2]/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/en-ae/c/women' and (text() = 'WOMEN' or . = 'WOMEN')]</value>
+      <value>//a[@href = '/en-ae/c/women' and (text() = 'Women' or . = 'Women')]</value>
    </webElementXpaths>
 </WebElementEntity>

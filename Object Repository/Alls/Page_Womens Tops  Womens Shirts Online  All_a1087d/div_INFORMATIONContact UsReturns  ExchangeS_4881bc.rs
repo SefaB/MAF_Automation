@@ -3,14 +3,15 @@
    <description></description>
    <name>div_INFORMATIONContact UsReturns  ExchangeS_4881bc</name>
    <tag></tag>
-   <elementGuidId>3973353f-09ac-4687-a8da-03379ae07aff</elementGuidId>
+   <elementGuidId>a3613691-72a6-4684-bb4e-096d2b00a0d8</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='AllsGridFooterMenu']/div</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -69,7 +70,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//footer/cx-page-layout/cx-page-slot/div[3]/div/div</value>
+      <value>//cx-page-layout/cx-page-slot/div[3]/div/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

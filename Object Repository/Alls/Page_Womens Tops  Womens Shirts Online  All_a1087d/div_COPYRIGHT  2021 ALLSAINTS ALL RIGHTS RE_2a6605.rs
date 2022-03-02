@@ -3,14 +3,15 @@
    <description></description>
    <name>div_COPYRIGHT  2021 ALLSAINTS ALL RIGHTS RE_2a6605</name>
    <tag></tag>
-   <elementGuidId>2499ca60-8920-4eb4-aee2-552ca085a2fb</elementGuidId>
+   <elementGuidId>53965754-8cf8-4786-89b8-69959e343d9b</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='AllsParagraphCopyright']/div/div/div</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
