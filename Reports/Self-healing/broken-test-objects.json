@@ -1,3 +1,24 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CB2/Homepage/homepage_banner_2",
+      "brokenLocator": "//div[@id\u003d\u0027comp_00349043\u0027]/div/div/div/div/div/div[2]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027SIGN UP\u0027])[2]/following::div[44]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CB2/Common/close_qualtrics_popup",
+      "brokenLocator": "(//img[@alt\u003d\u0027Close\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@src \u003d \u0027https://siteintercept.qualtrics.com/WRSiteInterceptEngine/../WRQualtricsShared/Graphics/siteintercept/wr-dialog-close-btn-black.png\u0027 and @alt \u003d \u0027Close\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
 }

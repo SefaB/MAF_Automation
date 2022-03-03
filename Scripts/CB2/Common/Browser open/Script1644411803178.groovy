@@ -23,3 +23,12 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://cb2.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en/')
 
+WebUI.click(findTestObject('CB2/Common/button_Accept Cookies'))
+
+not_run: if (true) {
+    WebUI.verifyElementVisible(findTestObject('CB2/Common/close_qualtrics_popup'))
+
+    WebUI.click(findTestObject('CB2/Common/close_qualtrics_popup'))
+} else {
+}
+
