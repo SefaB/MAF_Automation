@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>This test case created for test plp components and navigation item components</description>
-   <name>Verify_Components_PLP</name>
+   <name>Verify_Components_PLP_Filter</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>769e4e67-e125-46d1-aa53-bca453935d6f</testCaseGuid>
