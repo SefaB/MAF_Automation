@@ -6,12 +6,12 @@
    <elementGuidId>c01e893f-c93e-4ce0-9110-ac4c0b06d42b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='AllsImageLinkWomen']/div/div/a/span[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AllsImageLinkWomen']/div/div/a/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

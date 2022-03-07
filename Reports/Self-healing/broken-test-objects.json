@@ -29,6 +29,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_43 OFF_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_Feedback_imageZoomFull_1",
+      "brokenLocator": "//img[contains(@src,\u0027https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/WD213T-5-2.jpg-convert-1920x1280?context\u003dbWFzdGVyfGF6dXJlaW1hZ2VzfDMyNTU2OHxpbWFnZS9qcGVnfGgwNy9oMGEvOTIxMzA0NTk5NzU5OC9XRDIxM1QtNS0yLmpwZ19jb252ZXJ0LTE5MjB4MTI4MHxmYjdmMjBjMGQxMGI4ZTJlZjhiNmUyYjdmYzNmOGZmYmYwYmU1N2QzM2FiMGNkMDM5ZTY0ZDViNjdiZWQ3NmYz\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/div/div/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_Feedback_imageZoomFull_1_position.png"
     }
   ]
 }
