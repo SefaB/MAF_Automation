@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>our_radar_section</name>
+   <tag></tag>
+   <elementGuidId>f9f5efec-68e3-497e-b64e-5dd6f5337d25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Cb2AdvancedGridComponentOnOurRadar']/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container-grid container</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>On Our RadarSHOP STORAGEAll things storageSHOP STORAGESHOP DINNERWAREBRINGING NATURAL MATERIAL TO THE TABLE IN A BIG WAY.SHOP DINNERWARESHOP GAMESMAKING YOUR GIFT YOUR NEXT SMART MOVESHOP GAMESSHOP MIRRORSFOR MAKING A SMALL SPACE FEEL GRANDSHOP MIRRORS</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Cb2AdvancedGridComponentOnOurRadar&quot;)/div[@class=&quot;leo-advanced-grid-component leo-advanced-grid-component-grid-iota xs-up:grid:pos=rel xs-up:grid-bg:pos-overlay=abs xs-up:grid-bg-img:w=100 xs-up:grid-bg-img:h=100 xs-up:grid-bg-img:pos=abs xs-up:grid-bg-img:ofit=cover xs-up:grid-bg-img:opos=center xs-up:grid-col-item:mx=auto xs-up:grid-col-components:h=100 sm-down.container-grid:pr=0! xs-up:grid-title:bgc=white xs-up:grid-title:txt-case=upper xs-up:grid-title:d=inblock xs-up:grid-title:fs=p1 xs-up:grid-title:ls=.12 xs-up:grid-title:mb=0 xs-up:grid-title:pr=4 xs-up:grid-title:pos=rel xs-up:grid-title:z=1 xs-up:grid-banner:pos=rel sm-down:grid-banner:pt=4 sm-down:grid-banner:bw-top=(1px) sm-down:grid-banner:bc=muted xs-up:grid-banner:mb=4 xs-up:grid-banner:lh=1 md-up:grid-banner:after:bw-bottom=(1px) md-up:grid-banner:after:bc=muted md-up:grid-banner:after:content=() md-up:grid-banner:after:pos=abs md-up:grid-banner:after:leri=0 md-up:grid-banner:after:top=(50%) xs-up&lt;&lt;.tpl-CategoryPageTemplate>>.container-grid:pl=1 md-up&lt;&lt;.tpl-CategoryPageTemplate>>.container-grid:pl=0 sm-down&lt;&lt;.tpl-CategoryPageLevel2Template>>.container-grid:pl=1 grid-iota&quot;]/div[1]/div[@class=&quot;sticky&quot;]/div[@class=&quot;wrapper-grid&quot;]/div[@class=&quot;container-grid container&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Cb2AdvancedGridComponentOnOurRadar']/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP SOFAS'])[2]/following::div[7]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COZY. MODERN. SLEEK'])[1]/following::div[11]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'On Our RadarSHOP STORAGEAll things storageSHOP STORAGESHOP DINNERWAREBRINGING NATURAL MATERIAL TO THE TABLE IN A BIG WAY.SHOP DINNERWARESHOP GAMESMAKING YOUR GIFT YOUR NEXT SMART MOVESHOP GAMESSHOP MIRRORSFOR MAKING A SMALL SPACE FEEL GRANDSHOP MIRRORS' or . = 'On Our RadarSHOP STORAGEAll things storageSHOP STORAGESHOP DINNERWAREBRINGING NATURAL MATERIAL TO THE TABLE IN A BIG WAY.SHOP DINNERWARESHOP GAMESMAKING YOUR GIFT YOUR NEXT SMART MOVESHOP GAMESSHOP MIRRORSFOR MAKING A SMALL SPACE FEEL GRANDSHOP MIRRORS')]</value>
+   </webElementXpaths>
+</WebElementEntity>

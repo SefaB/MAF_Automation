@@ -17,18 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('CB2/Common/Browser open'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('CB2/Common/main_navigation_burger_menu'))
 
-WebUI.navigateToUrl('https://cb2.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en/')
+WebUI.click(findTestObject('CB2/PLP/Category_L1_Furniture'))
 
-WebUI.click(findTestObject('CB2/Common/button_Accept Cookies'))
+WebUI.click(findTestObject('CB2/PLP/Category_L2_Office Furniture'))
 
-not_run: if (true) {
-    WebUI.verifyElementVisible(findTestObject('CB2/Common/close_qualtrics_popup'))
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/h1_Office Furniture_L2_header'))
 
-    WebUI.click(findTestObject('CB2/Common/close_qualtrics_popup'))
-} else {
-}
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/first_product_image'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/a_Wynn Ivory Concrete _Product_Title'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/Product_Price_AED 4,590.00'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/button_Add to favorites'))
+
+WebUI.scrollToElement(findTestObject('CB2/PLP/scrollable_product'), 0)
+
+WebUI.scrollToElement(findTestObject('CB2/PLP/Product_with_discount'), 0)
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/b_On Sale_Badge'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/original_price_crossed'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/Sale_price'))
+
+WebUI.closeBrowser()
 

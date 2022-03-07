@@ -17,18 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('CB2/Common/Browser open'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('CB2/Common/main_navigation_burger_menu'))
 
-WebUI.navigateToUrl('https://cb2.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en/')
+WebUI.click(findTestObject('CB2/PLP/Category_L1_Furniture'))
 
-WebUI.click(findTestObject('CB2/Common/button_Accept Cookies'))
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/plp_h1_Furniture'))
 
-not_run: if (true) {
-    WebUI.verifyElementVisible(findTestObject('CB2/Common/close_qualtrics_popup'))
+WebUI.click(findTestObject('CB2/PLP/Category_L2_Office Furniture'))
 
-    WebUI.click(findTestObject('CB2/Common/close_qualtrics_popup'))
-} else {
-}
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/plp_h1_Office Furniture'))
+
+WebUI.click(findTestObject('CB2/PLP/Category_L3_Office Chairs'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/PLP/plp_h1_Office Chairs'))
+
+WebUI.closeBrowser()
 
