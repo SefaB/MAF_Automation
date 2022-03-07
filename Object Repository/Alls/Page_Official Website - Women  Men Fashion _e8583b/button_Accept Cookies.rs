@@ -6,12 +6,12 @@
    <elementGuidId>5452f68d-3268-4e14-8cd2-89b72ee0c810</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='AllsAnonymousConsentManagementBannerComponent']/div/div/div/div/div/div/div/button[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn-cookie-warning-accept</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AllsAnonymousConsentManagementBannerComponent']/div/div/div/div/div/div/div/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
