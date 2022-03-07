@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_title</name>
+   <tag></tag>
+   <elementGuidId>632f095e-0087-4ba2-944d-9535817d9fe6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.newsletter-body > h3.headline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Cb2NewsletterSignup']/div/div/div/div/div/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>headline</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Know What's Up. Sign Up For Emails.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Cb2NewsletterSignup&quot;)/div[@class=&quot;leo-newsletter-signup-component leo-newsletter-signup-component-newsletter-card-alpha xs-up[leo-card]:pos=rel xs-up:card-link:pos-overlay-link=abs xs-up.has-cta>>.media-body:z=1 xs-up.media-body:d=flx xs-up.media-body:flx-dir=col xs-up.content>>a:fc=link xs-up.btn:mt=3 xs-up>>a:txt-underline=yes xs-up>>a:fc=link xs-up.btn-truncate-container:txt-align=left xs-up.btn-truncate:p=0 xs-up.btn-truncate:m=0 xs-up.btn-truncate:fc=link xs-up.btn-truncate:fs=p3 xs-up.btn-truncate:after:fw=bold! xs-up.btn-truncate:after:ml=2 xs-up.state-truncated-no:icon-after=chevron-up xs-up.state-truncated-yes:icon-after=chevron-down xs-up:card-badge-theme xs-up:card-badge-size xs-up.badge:pos-align=top-left xs-up.badge:top=4 xs-up.tagline:txt-case=upper xs-up.tagline:ls=.1 xs-up.tagline:fp=4 lg-up.tagline:ls=.12 lg-up.tagline:fp=2 xs-up.headline:txt-case=upper xs-up.headline:ls=.1 xs-up.headline:lh=1.25 xs-up.content:fp=3 sm-up.content:fp=2 md-up.content:fp=3 lg-up.content:fp=2 xs-up.media-body:wmax=(354px) lg-up.media-body:flx-dir=col sm-down[class*=&quot;xs-up:card-content-align=center-left&quot;]>>.media:flx-row-align=center-center sm-down[class*=&quot;xs-up:card-content-align=center-right&quot;]>>.media:flx-row-align=center-center xs-up.newsletter-body:mb=1 xs-up.newsletter-body:pb=1 xs-up.newsletter-body:mb=4 lg-up.newsletter-body:mb=0 lg-up.newsletter-body:w=100 xs-up.headline:fs=p3! xs-up.headline:fw=normal! xs-up.headline:txt-align=center xs-up.headline:wmax=55 xs-up.headline:mx=auto xs-up.headline:mb=0! md-up.headline:txt-align=left md-up.headline:wmax=100 md-up.headline:mx=0 md-up.headline:mb=2! xs-up.content:ff=alpha xs-up.content:fc=muted xs-up.content:fp=4! xs-up.state-success>>.newsletter-form:w=100 lg-up.newsletter-form:flx-col-align=center-center lg-up.newsletter-form:pl=4 xs-up.newsletter-form:mb=2 lg-up.newsletter-form:mt=4 xs-up.newsletter-form:mb=(2rem) lg-up.newsletter-form:w=100 lg-up.newsletter-form:pl=0 xs-up.newsletter-form>>form:w=100 xs-up.newsletter-form>>form:pos=rel xs-up.newsletter-form>>form:flx-row-align=center-center xs-up.newsletter-form>>.form-group:w=100 xs-up.newsletter-form>>.form-group:mb=0 xs-up.newsletter-form>>.form-control:fs=p3 xs-up.newsletter-form>>.form-control:fw=light xs-up.newsletter-form>>.form-control:mb=0 xs-up.newsletter-form>>.form-control:bw=0 xs-up.newsletter-form>>.form-control:pr=5 xs-up.newsletter-form>>.form-control:bw-bottom=(1px) xs-up.newsletter-form>>.form-control:bc=alpha xs-up.newsletter-form>>.form-control:bgc=wildsand xs-up.newsletter-form>>.form-control:focus:bs=none xs-up.newsletter-form>>.form-control:bgi=none xs-up.newsletter-error-container:fc=danger xs-up.newsletter-error-container:fp=4 xs-up.newsletter-success-container:fs=p1 xs-up.newsletter-success-container:fc=alpha xs-up.newsletter-success-container:lh=1.375 xs-up.newsletter-success-container:txt-align=center xs-up[leo-validation-message]:pos=abs xs-up[leo-validation-message]:fw=light xs-up[leo-validation-message]:mb=1 xs-up[leo-validation-message]:txt-case=none xs-up.newsletter-submit-btn:btn=transparent xs-up.newsletter-submit-btn:pos=abs xs-up.newsletter-submit-btn:p=0 xs-up.newsletter-submit-btn:right=3 xs-up.newsletter-submit-btn:icon-before=email xs-up.newsletter-submit-btn:before:w=(24px) xs-up.newsletter-submit-btn:before:h=(24px) newsletter-card-alpha&quot;]/div[1]/div[1]/div[@class=&quot;wrapper-card xs-up:card-align=center-left xs-up:card-media-align=center-left xs-up:card-content-align=center-left&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body&quot;]/div[@class=&quot;newsletter-body&quot;]/h3[@class=&quot;headline&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Cb2NewsletterSignup']/div/div/div/div/div/div/div/h3</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[2]/following::h3[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/following::h3[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your email address'])[1]/preceding::h3[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/div/div/h3</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = concat(&quot;Know What&quot; , &quot;'&quot; , &quot;s Up. Sign Up For Emails.&quot;) or . = concat(&quot;Know What&quot; , &quot;'&quot; , &quot;s Up. Sign Up For Emails.&quot;))]</value>
+   </webElementXpaths>
+</WebElementEntity>
