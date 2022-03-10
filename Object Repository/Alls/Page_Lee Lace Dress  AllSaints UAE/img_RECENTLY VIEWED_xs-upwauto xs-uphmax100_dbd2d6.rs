@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_RECENTLY VIEWED_xs-upwauto xs-uphmax100_dbd2d6</name>
+   <tag></tag>
+   <elementGuidId>94c5e9d7-b474-4c4b-92cc-8778d4d69f37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='undefined']/div/div/a/div/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/WD213T-5-1.jpg-convert-900x600?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDEwODQzNHxpbWFnZS9qcGVnfGhmMC9oNzIvOTIxMzA0NjkxNTEwMi9XRDIxM1QtNS0xLmpwZ19jb252ZXJ0LTkwMHg2MDB8ZjViODNkNGQyYmYwMDQ5OTEwZWE3YjRjMjYxNGE4Y2YwYjZiMTJiNTlhNDdhZGI2MTBmNjZmOWI4MGViODcwZA</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AllsRecentlyViewedProductsComponent&quot;)/div[@class=&quot;leo-recently-viewed-products-component leo-recently-viewed-products-component-product-carousel-alpha xs-up:carousel-title:fs=p2 xs-up.product-sku:d=none xs-up:carousel-product-item:px=1 xs-up:carousel-product-item:h=100 xs-uo:carousel-item-product-detail:w=100 xs-up:carousel-item-product-info:d=flx xs-up:carousel-item-product-info:flx-dir=col xs-up:carousel-item-product-info:my=1 xs-up:carousel-item-product-info-price:fw=semi xs-up:carousel-item-product-info-has-crossed-price:fc=danger xs-up:carousel-item-product-info-crossed-price:fc=beta xs-up:carousel-item-product-info-crossed-price:fw=regular xs-up:carousel-item-product-add-to-cart:d=none xs-up:carousel-item-product-add-to-cart-input:wmax=20 xs-up:carousel-item-product-add-to-cart-input:txt-align=center xs-up:carousel-item-product-add-to-cart-input:mb=0 xs-up:carousel-item-product-add-to-cart-input:mr=2 xs-up.title:fs=p3 xs-up.title:py=3 xs-up.title:mb=4 xs-up.title:w=100 xs-up.title:txt-align=left md-up.title:txt-align=center xs-up.title:txt-case=upper xs-up.title:bw-bottom=(1px) xs-up.indicators:d=none! xs-up.slide.flex-wrap:flx-wrap=yes xs-up.icon-prev:icon-before=chevron-left xs-up.icon-next:icon-before=chevron-right xs-up.direction>>i:fs=(2.4rem) xs-up.direction>>i:fw=bold xs-up.direction>>.btn:bgc=transparent xs-up.direction>>.btn:b=none xs-up.direction>>.btn:focus:bs=none xs-up.direction>>.btn:active:focus:bs=none xs-up.direction>>.btn:active:bgc=transparent xs-up.carousel-item>>div:h=100 xs-up.product-detail:d=none product-carousel-alpha&quot;]/div[1]/ngx-advanced-carousel[@class=&quot;carousel&quot;]/div[@class=&quot;carousel-container&quot;]/div[@class=&quot;carousel&quot;]/div[@class=&quot;content grab&quot;]/div[@class=&quot;item cursor-pointer visible_important&quot;]/div[@class=&quot;slide flex-wrap&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;carousel-item&quot;]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-carousel-item-component leo-product-carousel-item-component-product-carousel-item-gamma xs-up.description:d=none xs-up.product-sku:d=none xs-up.price-wrapper:d=none product-carousel-item-gamma&quot;]/div[1]/a[@class=&quot;product-image is-initialized&quot;]/div[1]/picture[1]/img[@class=&quot;xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='undefined']/div/div/a/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/WD213T-5-1.jpg-convert-900x600?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDEwODQzNHxpbWFnZS9qcGVnfGhmMC9oNzIvOTIxMzA0NjkxNTEwMi9XRDIxM1QtNS0xLmpwZ19jb252ZXJ0LTkwMHg2MDB8ZjViODNkNGQyYmYwMDQ5OTEwZWE3YjRjMjYxNGE4Y2YwYjZiMTJiNTlhNDdhZGI2MTBmNjZmOWI4MGViODcwZA')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/WD213T-5-1.jpg-convert-900x600?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDEwODQzNHxpbWFnZS9qcGVnfGhmMC9oNzIvOTIxMzA0NjkxNTEwMi9XRDIxM1QtNS0xLmpwZ19jb252ZXJ0LTkwMHg2MDB8ZjViODNkNGQyYmYwMDQ5OTEwZWE3YjRjMjYxNGE4Y2YwYjZiMTJiNTlhNDdhZGI2MTBmNjZmOWI4MGViODcwZA']</value>
+   </webElementXpaths>
+</WebElementEntity>
