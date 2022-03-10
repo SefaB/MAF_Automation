@@ -107,6 +107,18 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
+			<id>1646640896480</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1646640896492</id>
+=======
 			<id>1646204871016</id>
 			<name></name>
 			<type>10</type>
@@ -333,6 +345,7 @@
 		</filter>
 		<filter>
 			<id>1646659925078</id>
+>>>>>>> branch 'main' of https://github.com/SefaB/MAF_Automation.git
 			<name></name>
 			<type>6</type>
 			<matcher>
