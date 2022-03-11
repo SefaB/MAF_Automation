@@ -17,3 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('CAB/CAB_Common/CAB_Open_Browser'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.mouseOver(findTestObject('CAB/CAB_PLP/nav_Furniture'))
+
+WebUI.click(findTestObject('CAB/CAB_PLP/nav_furniture_sofa_items'))
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_PLP/PLP_First_Product'))
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_PLP/PLP_First_Product_Image'))
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_PLP/PLP_First_Product_PriceTag'))
+
+WebUI.verifyElementVisible(findTestObject('CAB/CAB_PLP/PLP_relevance'))
+
+WebUI.click(findTestObject('CAB/CAB_PLP/PLP_relevance'))
+
+WebUI.click(findTestObject('CAB/CAB_PLP/PLP_relevance_ascending'))
+
+WebUI.click(findTestObject('CAB/CAB_PLP/PLP_relevance_descending'))
+
+WebUI.click(findTestObject('CAB/CAB_PLP/PLP_relevance_price_high'))
+
+WebUI.click(findTestObject('CAB/CAB_PLP/PLP_relevance_price_low'))
+
