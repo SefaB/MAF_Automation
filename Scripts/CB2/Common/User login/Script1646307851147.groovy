@@ -17,18 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('CB2/Common/Browser open'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('CB2/Common/sign_in_register_button'))
 
-WebUI.navigateToUrl('https://cb2.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en/')
+WebUI.setText(findTestObject('CB2/Common/email_input'), 'vovamelnikov1@gmail.com')
 
-WebUI.click(findTestObject('CB2/Common/button_Accept Cookies'))
+WebUI.setText(findTestObject('CB2/Common/password_input'), 'Djdf1715_')
 
-not_run: if (true) {
-    WebUI.verifyElementVisible(findTestObject('CB2/Common/close_qualtrics_popup'))
-
-    WebUI.click(findTestObject('CB2/Common/close_qualtrics_popup'))
-} else {
-}
+WebUI.click(findTestObject('CB2/Common/button_sign_in'))
 
