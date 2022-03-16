@@ -19,16 +19,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Alls/Open browser'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_Sign In'))
+WebUI.click(findTestObject('Alls/Alls_PLP/a_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_CONTINUE'))
+WebUI.click(findTestObject('Alls/Alls_PLP/a_CONTINUE'))
 
-WebUI.setText(findTestObject('Object Repository/Alls/Page_Sign In with Auth0/input_New Login to all Majid Al Futtaim bra_77e722'), 
+WebUI.setText(findTestObject('Alls/Common/input_New Login'), 
     'tanyatester8@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Alls/Page_Sign In with Auth0/input_Email Address_password'), 'N7HJqLlUfAvFoavH9nBpXw==')
+WebUI.setEncryptedText(findTestObject('Alls/Common/input_Email Address_password (1)'), 'N7HJqLlUfAvFoavH9nBpXw==')
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Sign In with Auth0/button_Sign in'))
+WebUI.click(findTestObject('Alls/Common/button_Sign in (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Hello, Tanya'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/span_Hello, Tanya'))
 

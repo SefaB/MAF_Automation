@@ -21,13 +21,13 @@ WebUI.callTestCase(findTestCase('Alls/Open browser'), [:], FailureHandling.STOP_
 
 WebUI.callTestCase(findTestCase('Alls/Go to PLP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Home'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Home'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Women'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Women'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Clothing'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Clothing'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/span_Womens Tops  Shirts'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/span_Womens Tops  Shirts'))
 
 WebUI.closeBrowser()
 

@@ -21,11 +21,11 @@ WebUI.callTestCase(findTestCase('Alls/Open browser'), [:], FailureHandling.STOP_
 
 WebUI.callTestCase(findTestCase('Alls/Go to PLP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/button_Relevance'))
+WebUI.click(findTestObject('Alls/Items added to your bag/button_Relevance'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/button_Price (lowest first)'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/button_Price (lowest first)'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/button_Price (lowest first)'))
+WebUI.click(findTestObject('Alls/Items added to your bag/button_Price (lowest first)'))
 
 https://alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae/c/women/women-clothing/women-tops-and-shirts?sortCode=price-asc = 
 WebUI.getUrl()

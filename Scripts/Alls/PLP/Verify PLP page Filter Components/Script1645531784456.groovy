@@ -21,33 +21,33 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae')
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/button_Accept Cookies'))
+WebUI.click(findTestObject('Alls/Alls_PLP/button_Accept Cookies'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Women'))
+WebUI.mouseOver(findTestObject('Alls/Alls_PLP/span_Women'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_Dresses'))
+WebUI.click(findTestObject('Alls/Alls_PLP/a_Dresses'))
 
-WebUI.verifyElementVisible(findTestObject('Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/Page_AllSaints Dresses - Mini Dresses, Maxi Dresses  AllSaints UAE/a_2-In-1 Dresses'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/a_2-In-1 Dresses (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/Page_AllSaints Dresses - Mini Dresses, Maxi Dresses  AllSaints UAE/a_All Dresses'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/a_All Dresses (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/Page_AllSaints Dresses - Mini Dresses, Maxi Dresses  AllSaints UAE/a_Maxi Dresses'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/a_Maxi Dresses (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/Page_AllSaints Dresses - Mini Dresses, Maxi Dresses  AllSaints UAE/a_Midi Dresses'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/a_Midi Dresses (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/Page_AllSaints Dresses - Mini Dresses, Maxi Dresses  AllSaints UAE/a_Occasion Dresses'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/a_Occasion Dresses (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/Page_AllSaints Dresses - Mini Dresses, Maxi Dresses  AllSaints UAE/a_Printed Dresses'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/a_Printed Dresses (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/button_Category'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/button_Category'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/button_color'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/button_color'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/button_size'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/button_size'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/button_PRICE'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/button_PRICE'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_AllSaints Dresses - Mini Dresses, Maxi_ff1ee8/button_Relevance'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/button_Relevance'))
 
 WebUI.closeBrowser()
 

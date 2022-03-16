@@ -19,27 +19,27 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Alls/Open browser'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.mouseOver(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Men'))
+WebUI.mouseOver(findTestObject('Alls/Alls_PLP/span_Men'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_All Accessories'))
+WebUI.click(findTestObject('Alls/Alls_PLP/a_All Accessories'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Mens Accessories - Mens Hats, Mens Sca_fd5d10/a_Flora Mortis, 100ml'))
+WebUI.click(findTestObject('Alls/Alls_PLP/a_Flora Mortis, 100ml'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Flora Mortis, 100ml - Eau de Parfum  A_737a9e/div_On Sale'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_On Sale'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Flora Mortis, 100ml - Eau de Parfum  A_737a9e/a_Flora Mortis, 100ml'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/a_Flora Mortis, 100ml'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Flora Mortis, 100ml - Eau de Parfum  A_737a9e/div_SKU UPV0812926'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_SKU UPV0812926'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Flora Mortis, 100ml - Eau de Parfum  A_737a9e/div_Sale AED 305.00'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_Sale AED 305.00'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Flora Mortis, 100ml - Eau de Parfum  A_737a9e/div_reg. AED 400.00'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_reg. AED 400.00'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Alls/Page_Flora Mortis, 100ml - Eau de Parfum  A_737a9e/button_Add to Bag'))
+WebUI.verifyElementClickable(findTestObject('Alls/Alls_PDP/button_Add to Bag'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Flora Mortis, 100ml - Eau de Parfum  A_737a9e/img_Add to favorites_share-logo xs-upmrauto_34568e'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/img_Add to favorites_share-logo xs-upmrauto_34568e'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Flora Mortis, 100ml - Eau de Parfum  A_737a9e/span_Earn 30.5 points'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/span_Earn 30.5 points'))
 
 WebUI.closeBrowser()
 

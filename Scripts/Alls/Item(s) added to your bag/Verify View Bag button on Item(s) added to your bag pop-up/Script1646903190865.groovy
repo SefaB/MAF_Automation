@@ -17,18 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Alls/Go to PLP'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Alls/Alls_Common/Add product to Bag'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Nico Top'))
+WebUI.click(findTestObject('Alls/Items added to your bag/a_Nico Top'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Nico Top  AllSaints UAE/button_Add to Bag'))
+WebUI.click(findTestObject('Alls/Shopping Bag/button_Add to Bag2'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Nico Top  AllSaints UAE/button_CHECKOUT'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/button_CHECKOUT (1)'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Nico Top  AllSaints UAE/button_CHECKOUT'))
+WebUI.click(findTestObject('Alls/Alls_PLP/button_CHECKOUT (1)'))
 
-https://alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae/cart = WebUI.getUrl()
-
+//alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae/cart = WebUI.getUrl()
 //alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae/cart = WebUI.getUrl()
 https: WebUI.closeBrowser()
 

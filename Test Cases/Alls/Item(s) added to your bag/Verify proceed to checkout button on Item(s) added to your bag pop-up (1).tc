@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify proceed to checkout button on Item(s) added to your bag pop-up (1)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>150d33fc-da4a-46c7-bddf-43697fef2960</testCaseGuid>
+</TestCaseEntity>

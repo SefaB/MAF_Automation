@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Shop WomenDressesLeather JacketsT-Shirt</name>
+   <tag></tag>
+   <elementGuidId>4e5f2add-a63a-4aa9-a40a-3efa1bb82bb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AllsNavigationShopCategory']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop WomenDressesLeather JacketsT-ShirtsKnitwearCoats &amp; JacketsShop MenT-ShirtsLeather JacketsShirtsKnitwear</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AllsNavigationShopCategory&quot;)/div[@class=&quot;leo-navigation-component leo-navigation-component-nav-alpha xs-up:mt=2 sm-up:mt=(1.7rem) xs-up:mb=6 md-up:mb=(3.5rem) lg-up:mb=6 xs-up.menu:flx-row-align=top-center xs-up.menu:txt-align=center xs-up.menu:mx=auto md-up.menu:wmax=70 lg-up.menu:wmax=(47rem) xs-up.menu>.nav-item:pr=0 xs-up.menu>.nav-item:w=50 nav-alpha&quot;]/div[1]/div[@class=&quot;menu&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AllsNavigationShopCategory']/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEN'])[1]/following::div[15]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WOMEN'])[1]/following::div[20]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Shop WomenDressesLeather JacketsT-ShirtsKnitwearCoats &amp; JacketsShop MenT-ShirtsLeather JacketsShirtsKnitwear' or . = 'Shop WomenDressesLeather JacketsT-ShirtsKnitwearCoats &amp; JacketsShop MenT-ShirtsLeather JacketsShirtsKnitwear')]</value>
+   </webElementXpaths>
+</WebElementEntity>

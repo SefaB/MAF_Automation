@@ -17,37 +17,37 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Alls/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Alls/Alls_Common/Open browser'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_Sign In'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/a_Sign In'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Wishlist'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/span_Wishlist'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Bag (0)'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/span_Bag (0)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_Search'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/a_Search'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Men'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/span_Men'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Women'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/span_Women'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Sale'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/span_Sale'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_ALLSAINTS'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/a_ALLSAINTS'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/img_Official Website - Women  Men Fashion_x_a0c28d'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/img_Official Website - Women Men Fashion'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_WOMEN'))
+WebUI.verifyElementClickable(findTestObject('Alls/Alls_PLP/a_WOMEN'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_MEN'))
+WebUI.verifyElementClickable(findTestObject('Alls/Alls_PLP/a_MEN'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/div_Shop WomenDressesLeather JacketsT-Shirt_8b594c'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/div_Shop WomenDressesLeather JacketsT-Shirt'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/div_New to AllSaints Sign up for 20 off ful_b4d31b'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/div_New to AllSaints Sign up'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/div_INFORMATIONContact UsReturns  ExchangeS_4881bc'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/div_INFORMATION'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/div_COPYRIGHT  2021 ALLSAINTS ALL RIGHTS RE_2a6605'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/div_COPYRIGHT'))
 
 WebUI.closeBrowser()
 

@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Alls/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Alls/Alls_Common/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/a_Home'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/a_Home'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/a_Women'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/a_Women'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/a_Clothing'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/a_Clothing'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/span_Lee Lace Dress'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/span_Lee Lace Dress'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/ul_HomeHomeWomenWomenClothingClothingLee La_280e60'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/ul_HomeHomeWomenWomenClothingClothing'))
 
 WebUI.closeBrowser()
 

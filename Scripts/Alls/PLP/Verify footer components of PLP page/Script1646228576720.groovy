@@ -24,29 +24,29 @@ WebUI.callTestCase(findTestCase('Alls/Go to PLP'), [:], FailureHandling.STOP_ON_
 WebUI.scrollToElement(findTestObject('Page_Womens Tops  Womens Shirts Online  All_a1087d/div_INFORMATIONContact UsReturns  ExchangeS_4881bc'), 
     1)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/h6_INFORMATION'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/h6_INFORMATION'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Contact Us'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Contact Us'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Returns  Exchange'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Returns  Exchange'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Shipping and FAQs'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Shipping and FAQs'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Size Guide'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Size Guide'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Track Order'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Track Order'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Terms  Conditions'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Terms  Conditions'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Privacy Policy'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Privacy Policy'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Site Map'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Site Map'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/h6_FOLLOW US'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/h6_FOLLOW US'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Instagram'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Instagram'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_COPYRIGHT  2021 ALLSAINTS ALL RIGHTS RE_2a6605'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/div_COPYRIGHT'))
 
 WebUI.closeBrowser()
 

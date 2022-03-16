@@ -17,14 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Alls/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Alls/Alls_Common/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/h3_RECENTLY VIEWED'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/h3_RECENTLY VIEWED'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/h3_RECENTLY VIEWED'), 
+WebUI.verifyElementText(findTestObject('Alls/Alls_PDP/h3_RECENTLY VIEWED'), 
     'RECENTLY VIEWED')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_RECENTLY VIEWED_xs-upwauto xs-uphmax100_dbd2d6'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/img_RECENTLY VIEWED'))
 
 WebUI.closeBrowser()
 

@@ -21,21 +21,21 @@ WebUI.callTestCase(findTestCase('Alls/Open browser'), [:], FailureHandling.STOP_
 
 WebUI.callTestCase(findTestCase('Alls/Go to PLP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_All tops  shirts'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_All tops  shirts'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Tops'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Tops'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Shirts'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Shirts'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/button_Category'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/button_Category'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/button_color'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/button_color'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/button_size'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/button_size'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/button_PRICE'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/button_PRICE'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/button_Relevance'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/button_Relevance'))
 
 WebUI.closeBrowser()
 

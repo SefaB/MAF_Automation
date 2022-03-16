@@ -17,35 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Alls/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Alls/Alls_Common/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/a_Lee Lace Dress'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/a_Lee Lace Dress'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/div_SKU UPV0830016'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_SKU UPV0830016'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/div_AED 650.00'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_AED 650.00'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Add to Bag'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/button_Add to Bag (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Add to Bag'))
+WebUI.verifyElementClickable(findTestObject('Alls/Alls_PDP/button_Add to Bag (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_Add to favorites_share-logo xs-upmrauto_34568e'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/img_Add to favorites_share-logo xs-upmrauto_34568e (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/span_Earn 65 points'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/span_Earn 65 points'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/div_SHARE'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_SHARE'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_SHARE_xs-upwauto xs-uphmax100 xs-upwmax100'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/img_SHARE_'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_SHARE_xs-upwauto xs-uphmax100 xs-upwmax100_1'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/img_SHARE'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_SHARE_xs-upwauto xs-uphmax100 xs-upwmax100_1_2'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/img_SHARE_xs-upwauto xs-uphmax100 xs-upwmax100_1_2'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Details'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/button_Details'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Details'))
+WebUI.click(findTestObject('Alls/Alls_PDP/button_Details'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/div_Relaxed fitShell 100 cottonDress 90 vis_561296'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_Relaxed fitShell 100 cottonDress 90'))
 
 WebUI.closeBrowser()
 

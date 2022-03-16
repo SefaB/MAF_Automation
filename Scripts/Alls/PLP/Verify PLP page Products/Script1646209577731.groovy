@@ -21,40 +21,40 @@ WebUI.callTestCase(findTestCase('Alls/Open browser'), [:], FailureHandling.STOP_
 
 WebUI.callTestCase(findTestCase('Alls/Go to PLP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/ul_HomeHomeWomenWomenClothingClothingWomens_126bad'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/ul_HomeWomenClothingWomens'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/h1_Womens Tops  Shirts'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/h1_Womens Tops  Shirts'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_From casual to formal, our womens tops _471d5c'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/div_From casual to formal'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_All tops  shirts'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_All tops  shirts'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Tops'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Tops'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Shirts'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Shirts'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_Name (descending)_col-item col-4'))
+WebUI.mouseOver(findTestObject('Alls/Items added to your bag/div_Name (descending)_col-item col-4 (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/img_Name (descending)_xs-upwauto xs-uphmax1_434631'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/img_Name (descending) (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Tammy Leppo Top'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Tammy Leppo Top'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_AED 435.00'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/div_AED 435.00'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/button_Add to Bag'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/button_Add to Bag (1)'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/span_43 OFF'), 
+WebUI.scrollToElement(findTestObject('Alls/Items added to your bag/span_43 OFF'), 
     1)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/span_43 OFF'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/span_43 OFF'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_Sale AED 395.00'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/div_Sale AED 395.00'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_On Sale'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/div_On Sale (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/div_reg. AED 705.00'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/div_reg. AED 705.00'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/p_Out of Stock'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/p_Out of Stock'))
 
 WebUI.closeBrowser()
 

@@ -17,29 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Alls/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Alls/Alls_Common/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Add to Bag'))
+WebUI.click(findTestObject('Alls/Alls_PDP/button_Add to Bag (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/div_Shopping Bag (1)'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_Shopping Bag (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Shopping Bag (1)_close'))
+WebUI.verifyElementClickable(findTestObject('Alls/Alls_PDP/button_Shopping Bag (1)_close'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/div_Lee Lace Dress AED 650.00 Size SQUANTIT_69a79a'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_Lee Lace Dress AED 650.00 Size SQUANTIT'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Remove'))
+WebUI.verifyElementClickable(findTestObject('Alls/Alls_PDP/button_Remove'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_CHECKOUT'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/button_CHECKOUT'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_CHECKOUT'))
+WebUI.verifyElementClickable(findTestObject('Alls/Alls_PDP/button_CHECKOUT'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Continue Shopping'))
+WebUI.verifyElementClickable(findTestObject('Alls/Alls_PDP/button_Continue Shopping'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Continue Shopping'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/button_Continue Shopping'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/span_AED 650.00'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/span_AED 650.00'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/span_Total'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/span_Total'))
 
 WebUI.closeBrowser()
 

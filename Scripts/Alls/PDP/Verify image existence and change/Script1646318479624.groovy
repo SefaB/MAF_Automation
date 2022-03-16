@@ -17,30 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Alls/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Alls/Alls_Common/Go to PDP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.mouseOver(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_Tap To Zoom_xs-upwauto xs-uphmax100 xs-_6cbf40'))
+WebUI.mouseOver(findTestObject('Alls/Alls_PDP/img_Tap To Zoom'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/div_Tap To Zoom'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/div_Tap To Zoom'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/div_Tap To Zoom'))
+WebUI.click(findTestObject('Alls/Alls_PDP/div_Tap To Zoom'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_Feedback_imageZoomFull'), 
+WebUI.waitForElementVisible(findTestObject('Alls/Alls_PDP/img_Feedback_imageZoomFull'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Feedback_zoom-btn zoom-prev-btn xs-updnone'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/button_Feedback_zoom-btn'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Feedback_zoom-btn zoom-prev-btn xs-updnone'))
+WebUI.verifyElementClickable(findTestObject('Alls/Alls_PDP/button_Feedback_zoom-btn'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Feedback_zoom-btn zoom-prev-btn xs-updnone'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/button_Feedback_zoom-btn'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Feedback_zoom-btn zoom-prev-btn xs-updnone'))
+WebUI.click(findTestObject('Alls/Alls_PDP/button_Feedback_zoom-btn'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/img_Feedback_imageZoomFull_1'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/img_Feedback_imageZoomFull_1'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Feedback_zoom-btn zoom-prev-btn xs-updnone'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PDP/button_Feedback_zoom-btn'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Lee Lace Dress  AllSaints UAE/button_Feedback_zoom-btn zoom-prev-btn xs-updnone'))
+WebUI.click(findTestObject('Alls/Alls_PDP/button_Feedback_zoom-btn'))
 
 WebUI.closeBrowser()
 

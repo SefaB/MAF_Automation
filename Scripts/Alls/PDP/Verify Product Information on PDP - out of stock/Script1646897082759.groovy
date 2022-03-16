@@ -19,23 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Alls/Open browser'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.mouseOver(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/span_Men'))
+WebUI.mouseOver(findTestObject('Alls/Items added to your bag/span_Men'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_All Accessories'))
+WebUI.click(findTestObject('Alls/Items added to your bag/a_All Accessories'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Mens Accessories - Mens Hats, Mens Sca_fd5d10/a_Sturge Leather Belt'))
+WebUI.click(findTestObject('Alls/Alls_PLP/a_Sturge Leather Belt'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Sturge Leather Belt - Mens Leather Bel_e27809/a_Sturge Leather Belt'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/a_Sturge Leather Belt'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Sturge Leather Belt - Mens Leather Bel_e27809/div_SKU UPV0785322'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/div_SKU UPV0785322'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Sturge Leather Belt - Mens Leather Bel_e27809/div_AED 375.00'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/div_AED 375.00'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Sturge Leather Belt - Mens Leather Bel_e27809/div_Type in your email address below to get_3d3902'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/div_Type in your email address'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Sturge Leather Belt - Mens Leather Bel_e27809/img_Add to favorites_share-logo xs-upmrauto_34568e'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/img_Add to favorites_share-logo'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Sturge Leather Belt - Mens Leather Bel_e27809/span_Earn 37.5 points'))
+WebUI.verifyElementVisible(findTestObject('Alls/Items added to your bag/span_Earn 37.5 points'))
 
 WebUI.closeBrowser()
 

@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae')
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/button_Accept Cookies'))
+WebUI.click(findTestObject('Alls/Alls_PLP/button_Accept Cookies'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/span_Women'))
+WebUI.mouseOver(findTestObject('Alls/Alls_PLP/span_Women'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/ul_ClothingDressesTops  ShirtsT-ShirtsSkirt_0c362e'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/ul_ClothingDressesTops ShirtsT-ShirtsSkirt (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/ul_Shoes And AccessoriesAll ShoesAll Access_bae106'))
+WebUI.verifyElementVisible(findTestObject('Alls/Alls_PLP/ul_Shoes And AccessoriesAll ShoesAll (1)'))
 
-WebUI.click(findTestObject('Object Repository/Alls/Page_Official Website - Women  Men Fashion _e8583b/a_Dresses'))
+WebUI.click(findTestObject('Alls/Alls_PLP/a_Dresses'))
 
 //alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae/c/women/women-clothing/women-dresses = 
 https: WebUI.getUrl()
