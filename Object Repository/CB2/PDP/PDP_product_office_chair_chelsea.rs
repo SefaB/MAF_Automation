@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>lazy_loading_product1</name>
+   <name>PDP_product_office_chair_chelsea</name>
    <tag></tag>
-   <elementGuidId>641bb3f7-0146-416c-bff0-2a600f4c6dbc</elementGuidId>
+   <elementGuidId>5cc0d833-7e7b-46ea-b7a2-6530c012b1fa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//div[@id='undefined']/div/div/h2/a)[9]</value>
+         <value>(//div[@id='undefined']/div/div/h2/a)[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -28,14 +28,14 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/en/product/tesso-chrome-84-bookcase/346155_CB2</value>
+      <value>/en/product/chelsea-home-office-chair/461977_CB2</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tesso Chrome 84&quot; Bookcase </value>
+      <value> Chelsea Home Office Chair </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,69 +49,69 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//div[@id='undefined']/div/div/h2/a)[9]</value>
+      <value>(//div[@id='undefined']/div/div/h2/a)[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Tesso Chrome 84&quot; Bookcase')]</value>
+      <value>//a[contains(text(),'Chelsea Home Office Chair')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED 7,235.00'])[1]/following::a[5]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED 2,755.00'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to favorites'])[8]/following::a[5]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to favorites'])[2]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to favorites'])[9]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to favorites'])[3]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED 1,380.00'])[1]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED 1,375.00'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tesso Chrome 84&quot; Bookcase']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='Chelsea Home Office Chair']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/en/product/tesso-chrome-84-bookcase/346155_CB2')])[2]</value>
+      <value>(//a[contains(@href, '/en/product/chelsea-home-office-chair/461977_CB2')])[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/div/div/div/div/div/div/h2/a</value>
+      <value>//div[3]/div/div/div/div/div/h2/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/en/product/tesso-chrome-84-bookcase/346155_CB2' and (text() = ' Tesso Chrome 84&quot; Bookcase ' or . = ' Tesso Chrome 84&quot; Bookcase ')]</value>
+      <value>//a[@href = '/en/product/chelsea-home-office-chair/461977_CB2' and (text() = ' Chelsea Home Office Chair ' or . = ' Chelsea Home Office Chair ')]</value>
    </webElementXpaths>
 </WebElementEntity>
