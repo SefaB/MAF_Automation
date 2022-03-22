@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>on_sale_title</name>
+   <tag></tag>
+   <elementGuidId>2c8def37-0430-456e-b3d9-4a8c1605d188</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='undefined']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>On Sale</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProductIntroComponent&quot;)/div[@class=&quot;leo-product-intro-component leo-product-intro-component-product-intro-alpha xs-up:mt=4 md-up:mt=0 xs-up:px=3 xs-up.intro-wrapper:d=flx xs-up.intro-wrapper:flx-dir=col xs-up.intro-wrapper:bgc=white! xs-up.intro-wrapper:z=1! xs-up.intro-wrapper:txt-case=upper xs-up[leo-product-intro]:d=flx xs-up[leo-product-intro]:flx-dir=col xs-up.product-sku:flx-order=2 xs-up.intro-wrapper>>.product-price:flx-order=1 xs-up.intro-wrapper>>.product-sku:flx-order=2 product-intro-alpha&quot;]/div[1]/div[@class=&quot;product-badges&quot;]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-badges-component leo-product-badges-component-product-badges-alpha xs-up[leo-product-badges]:flx-row-align=center-left xs-up[leo-product-badges]:flx-wrap=yes xs-up.badge:flx-row-align=center-left xs-up.badge:mr=(2px) xs-up:fs=p5 xs-up:fc=black xs-up:fw=normal xs-up:txt-case=upper xs-up.badge:mr=2 product-badges-alpha&quot;]/div[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='undefined']/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tap To Zoom'])[7]/following::div[22]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tap To Zoom'])[6]/following::div[27]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Court Office Chair'])[2]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'On Sale' or . = 'On Sale')]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>see_in_3d_section</name>
+   <tag></tag>
+   <elementGuidId>03822bf6-5588-4e1f-9c41-c21399f2a301</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ThreeDArDesktopComponent']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> See in 3D See in your space </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ThreeDArDesktopComponent&quot;)/div[@class=&quot;leo-three-ar-component leo-three-ar-component-threedy-alpha xs-up>div:d=flx xs-up>div:px=3 xs-up.btn-wrapper:d=grid xs-up.btn-wrapper:grid-columns=(1fr|1fr) xs-up.btn-wrapper:col-gap=2 lg-up.btn-wrapper:col-gap=3 xs-up.btn-wrapper:w=100 xs-up.btn-wrapper:flx-justify-content=around xs-up.threedy-qar-btn:btn-outline=alpha xs-up.threedy-qar-btn:btn-size=medium xs-up.threedy-qar-btn:fs=p4 xs-up.threedy-qar-btn:hmin=(2.5rem) xs-up.threedy-qar-btn:p=0 xs-up.threedy-qar-btn:px=3 xl-up.threedy-qar-btn:px=4 xs-up.threedy-qar-btn:cursor=pointer xs-up.threedy-qar-btn:icon-before=view-in-your-room xs-up.threedy-3d-btn:btn-outline=alpha xs-up.threedy-3d-btn:btn-size=medium xs-up.threedy-3d-btn:fs=p4 xs-up.threedy-3d-btn:hmin=(2.5rem) xs-up.threedy-3d-btn:p=0 xs-up.threedy-3d-btn:px=3 lg-up.threedy-3d-btn:px=4 xs-up.threedy-3d-btn:cursor=pointer xs-up.threedy-3d-btn:icon-before=3d xs-up.hidden:d=none xs-up.threedy-qar-btn:mt=3 xs-up.threedy-3d-btn:mt=3 xs-up.threedy-qar-btn:mb=(2rem) xs-up.threedy-3d-btn:mb=(2rem) xs-up:none lg-up:threedy-alpha&quot;]/div[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ThreeDArDesktopComponent']/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/following::div[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' See in 3D See in your space ' or . = ' See in 3D See in your space ')]</value>
+   </webElementXpaths>
+</WebElementEntity>
