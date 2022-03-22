@@ -23,5 +23,5 @@ WebUI.navigateToUrl('https://alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.comme
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Alls/Page_Official Website - Women  Men Fashion _e8583b (1)/button_Accept Cookies'))
+WebUI.click(findTestObject('null'))
 

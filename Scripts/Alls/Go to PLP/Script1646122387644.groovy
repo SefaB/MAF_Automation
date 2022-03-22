@@ -17,11 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Alls/Page_Official Website - Women  Men Fashion _e8583b (1)/span_Women'))
+WebUI.openBrowser('')
 
-WebUI.mouseOver(findTestObject('Alls/Page_Official Website - Women  Men Fashion _e8583b (1)/span_Women'))
+WebUI.navigateToUrl('https://alls.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en-ae')
 
-WebUI.verifyElementVisible(findTestObject('Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Tops  Shirts'))
+WebUI.click(findTestObject('Alls/Alls_PLP/button_Accept Cookies'))
 
-WebUI.click(findTestObject('Alls/Page_Womens Tops  Womens Shirts Online  All_a1087d/a_Tops  Shirts'))
+WebUI.mouseOver(findTestObject('Alls/Alls_PLP/span_Women'))
+
+WebUI.click(findTestObject('Alls/Alls_PLP/a_Dresses'))
 

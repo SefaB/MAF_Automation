@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>second_product_image_thumb</name>
+   <tag></tag>
+   <elementGuidId>2ae573d7-2726-42b1-ab62-9002b6654fb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ProductImagesComponent']/div/div/div/div/div/div[2]/div/div/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/461977-CB2ChelseaOfficeChairAVS20-convert-360x240?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDE0MjQ3fGltYWdlL2pwZWd8aGIzL2gyNi85MTU5NTkwODA1NTM0LzQ2MTk3N19DQjJDaGVsc2VhT2ZmaWNlQ2hhaXJBVlMyMF9jb252ZXJ0LTM2MHgyNDB8MzA1MTFlNzlkNGIxMTRiNTcwMTgzYmJhNzU1MWE2N2QwNDkyNGE4OThlOThhZmUwNDFjMWJiZTQzOWVmNzMyMQ</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Chelsea Home Office Chair</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProductImagesComponent&quot;)/div[@class=&quot;leo-product-images-component leo-product-images-component-product-gallery-alpha xs-up.image-gallery-container:d=flx xs-up.image-gallery-container:h=100 xs-up.zoom-main-wrapper:w=100 xs-up.zoom-media-wrapper>>img:w=100 xs-up:h=100 xs-up.zoom-overlay-container:pos=abs xs-up.zoom-overlay-container:d=flx xs-up.zoom-overlay-container:flx-align-items=center xs-up.zoom-overlay-container:cursor=default xs-up.zoom-overlay-container:pos-align=center-center xs-up>>[leo-product-images-gallery]:h=100 xs-up:main-image-carousel-indicators:bottom=0 xs-up:main-image-carousel-indicators:txt-align=left xs-up.carousel-dot:d=block xs-up.carousel-dot:br=full xs-up.carousel-dot:w=(8px) xs-up.carousel-dot:h=(8px) xs-up.carousel-dot:bgc=beta-60 xs-up.carousel-dot.active:bgc=beta md-up.thumbs-wrapper:mr=5 md-up.thumbs-wrapper:flx-dir=col lg-up.thumbs-wrapper:wmax=(5.625rem) lg-up.thumbs-wrapper:wmin=(5.625rem) md-up.thumbs-wrapper:wmax=(3.5rem) md-up.thumbs-wrapper:wmin=(3.5rem) xs-up.thumbnail-media.active:bw-bottom=(3px) xs-up.thumbnail-media:mb=0 xs-up.thumbnail-media.active:pb=(3px) xs-up.thumbnail-media:cursor=pointer xs-up.thumbnail-media:focus:ow=(1px) xs-up.thumbnail-media:focus:oc=alpha xs-up.thumbnail-media:focus:oo=(2px) xs-up.zoom-main-wrapper:mr=5 xs-up.zoom-overlay-container:animation=(fadeOut|4s|linear|forwards) xs-up.zoom-overlay-container:h=(40px) xs-up.zoom-overlay-container:bgc=body-60 xs-up.zoom-overlay-container:px=6 xs-up.zoom-overlay-container:txt-wrap=no xs-up.grid-wrapper:d=flx xs-up.grid-wrapper:flx-wrap=yes xs-up.grid-wrapper>>.grid-item:w=100 xs-up.grid-wrapper>>.grid-item:pb=3 xs-up.main-media>>img:w=100 xs-up.main-media:outline=none! xs-up:none lg-up:product-gallery-alpha&quot;]/div[1]/div[@class=&quot;image-gallery-container&quot;]/div[@class=&quot;thumbs-wrapper&quot;]/div[@class=&quot;grid-wrapper&quot;]/div[@class=&quot;grid-item thumb-media-wrapper1&quot;]/div[@class=&quot;thumbnail-media is-initialized&quot;]/div[1]/picture[1]/img[@class=&quot;xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ProductImagesComponent']/div/div/div/div/div/div[2]/div/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Chelsea Home Office Chair'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/461977-CB2ChelseaOfficeChairAVS20-convert-360x240?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDE0MjQ3fGltYWdlL2pwZWd8aGIzL2gyNi85MTU5NTkwODA1NTM0LzQ2MTk3N19DQjJDaGVsc2VhT2ZmaWNlQ2hhaXJBVlMyMF9jb252ZXJ0LTM2MHgyNDB8MzA1MTFlNzlkNGIxMTRiNTcwMTgzYmJhNzU1MWE2N2QwNDkyNGE4OThlOThhZmUwNDFjMWJiZTQzOWVmNzMyMQ' and @alt = 'Chelsea Home Office Chair']</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>second_product_image_full</name>
+   <tag></tag>
+   <elementGuidId>f706edc0-d987-4a9c-a5c2-57c467558267</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ProductImagesComponent']/div/div/div/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zoom-overlay-container</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tap To Zoom</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProductImagesComponent&quot;)/div[@class=&quot;leo-product-images-component leo-product-images-component-product-gallery-alpha xs-up.image-gallery-container:d=flx xs-up.image-gallery-container:h=100 xs-up.zoom-main-wrapper:w=100 xs-up.zoom-media-wrapper>>img:w=100 xs-up:h=100 xs-up.zoom-overlay-container:pos=abs xs-up.zoom-overlay-container:d=flx xs-up.zoom-overlay-container:flx-align-items=center xs-up.zoom-overlay-container:cursor=default xs-up.zoom-overlay-container:pos-align=center-center xs-up>>[leo-product-images-gallery]:h=100 xs-up:main-image-carousel-indicators:bottom=0 xs-up:main-image-carousel-indicators:txt-align=left xs-up.carousel-dot:d=block xs-up.carousel-dot:br=full xs-up.carousel-dot:w=(8px) xs-up.carousel-dot:h=(8px) xs-up.carousel-dot:bgc=beta-60 xs-up.carousel-dot.active:bgc=beta md-up.thumbs-wrapper:mr=5 md-up.thumbs-wrapper:flx-dir=col lg-up.thumbs-wrapper:wmax=(5.625rem) lg-up.thumbs-wrapper:wmin=(5.625rem) md-up.thumbs-wrapper:wmax=(3.5rem) md-up.thumbs-wrapper:wmin=(3.5rem) xs-up.thumbnail-media.active:bw-bottom=(3px) xs-up.thumbnail-media:mb=0 xs-up.thumbnail-media.active:pb=(3px) xs-up.thumbnail-media:cursor=pointer xs-up.thumbnail-media:focus:ow=(1px) xs-up.thumbnail-media:focus:oc=alpha xs-up.thumbnail-media:focus:oo=(2px) xs-up.zoom-main-wrapper:mr=5 xs-up.zoom-overlay-container:animation=(fadeOut|4s|linear|forwards) xs-up.zoom-overlay-container:h=(40px) xs-up.zoom-overlay-container:bgc=body-60 xs-up.zoom-overlay-container:px=6 xs-up.zoom-overlay-container:txt-wrap=no xs-up.grid-wrapper:d=flx xs-up.grid-wrapper:flx-wrap=yes xs-up.grid-wrapper>>.grid-item:w=100 xs-up.grid-wrapper>>.grid-item:pb=3 xs-up.main-media>>img:w=100 xs-up.main-media:outline=none! xs-up:none lg-up:product-gallery-alpha&quot;]/div[1]/div[@class=&quot;image-gallery-container&quot;]/div[@class=&quot;zoom-main-wrapper&quot;]/div[@class=&quot;grid-wrapper&quot;]/div[@class=&quot;grid-item xs-up:pos=rel main-media-wrapper1&quot;]/div[@class=&quot;zoom-overlay-container&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ProductImagesComponent']/div/div/div/div[2]/div/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tap To Zoom'])[1]/following::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chelsea Home Office Chair'])[1]/following::div[52]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tap To Zoom'])[3]/preceding::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tap To Zoom' or . = 'Tap To Zoom')]</value>
+   </webElementXpaths>
+</WebElementEntity>
