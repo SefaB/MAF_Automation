@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>product_details_section</name>
+   <tag></tag>
+   <elementGuidId>5cbdc3b3-f776-4ff7-8a26-67688776d097</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ProductSpecsTabComponent']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leo-product-specs-tab-component leo-product-specs-tab-component-product-specs-alpha xs-up:mt=3 xs-up:px=3! xs-up.accordion>>.card:bw=0 xs-up.accordion>>.card:bc=muted xs-up.accordion>>.card:bw-bottom=(1px) xs-up.accordion>>.card:first-child:bw-top=(1px) xs-up.accordion>>.card-header:bgc=body xs-up.accordion>>.card-header:px=0 xs-up.accordion>>.card-header>>.btn-link:px=0 xs-up.accordion>>.card-header>>.btn-link:bs=none xs-up.accordion>>.card-header>>.btn-link:d=flx xs-up.accordion>>.card-header>>.btn-link:fw=semi xs-up.accordion>>.card-header>>.btn-link:fs=p3 xs-up.accordion>>.card-header>>.btn-link:txt-case=upper xs-up.accordion>>.card-header>>.btn-link:flx-justify-content=between xs-up.accordion>>.card-header>>.btn-link:flx-align-items=center xs-up.accordion>>.card-header>>.btn-link:txt-align=left xs-up.accordion>>.card-header>>.btn-link:txt-underline=no xs-up.accordion>>.card-header>>.btn-link:w=100 xs-up.accordion>>.card-header>>.btn-link.collapsed:icon-after=plus xs-up.accordion>>.card-header>>.btn-link:icon-after=minus xs-up.accordion>>.card-header>>.btn-link:after:mr=2 xs-up.accordion>>.card-body:fw=light xs-up.accordion>>.card-body:px=0 xs-up.accordion>>.global-description:mb=3 xs-up.accordion>>.dimensions>>.title:fw=semi xs-up.accordion>>.dimensions>>.dimensions-features:mb=5 xs-up.accordion>>.dimensions>>[leo-media]:mb=5 xs-up.accordion>>.care:ml=5 xs-up.accordion>>.care:d=litem xs-up.accordion>>.care:list-style=(disc) product-specs-alpha</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Details Dimensions</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProductSpecsTabComponent&quot;)/div[@class=&quot;leo-product-specs-tab-component leo-product-specs-tab-component-product-specs-alpha xs-up:mt=3 xs-up:px=3! xs-up.accordion>>.card:bw=0 xs-up.accordion>>.card:bc=muted xs-up.accordion>>.card:bw-bottom=(1px) xs-up.accordion>>.card:first-child:bw-top=(1px) xs-up.accordion>>.card-header:bgc=body xs-up.accordion>>.card-header:px=0 xs-up.accordion>>.card-header>>.btn-link:px=0 xs-up.accordion>>.card-header>>.btn-link:bs=none xs-up.accordion>>.card-header>>.btn-link:d=flx xs-up.accordion>>.card-header>>.btn-link:fw=semi xs-up.accordion>>.card-header>>.btn-link:fs=p3 xs-up.accordion>>.card-header>>.btn-link:txt-case=upper xs-up.accordion>>.card-header>>.btn-link:flx-justify-content=between xs-up.accordion>>.card-header>>.btn-link:flx-align-items=center xs-up.accordion>>.card-header>>.btn-link:txt-align=left xs-up.accordion>>.card-header>>.btn-link:txt-underline=no xs-up.accordion>>.card-header>>.btn-link:w=100 xs-up.accordion>>.card-header>>.btn-link.collapsed:icon-after=plus xs-up.accordion>>.card-header>>.btn-link:icon-after=minus xs-up.accordion>>.card-header>>.btn-link:after:mr=2 xs-up.accordion>>.card-body:fw=light xs-up.accordion>>.card-body:px=0 xs-up.accordion>>.global-description:mb=3 xs-up.accordion>>.dimensions>>.title:fw=semi xs-up.accordion>>.dimensions>>.dimensions-features:mb=5 xs-up.accordion>>.dimensions>>[leo-media]:mb=5 xs-up.accordion>>.care:ml=5 xs-up.accordion>>.care:d=litem xs-up.accordion>>.care:list-style=(disc) product-specs-alpha&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ProductSpecsTabComponent']/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/following::div[9]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to favorites'])[1]/following::div[15]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Details Dimensions' or . = ' Details Dimensions')]</value>
+   </webElementXpaths>
+</WebElementEntity>
