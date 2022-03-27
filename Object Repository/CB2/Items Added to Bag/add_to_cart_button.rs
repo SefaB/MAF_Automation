@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>add_to_cart_button</name>
+   <tag></tag>
+   <elementGuidId>f8b5b81b-7e5b-4dbd-91b2-be652fca325a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AddToCart']/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-add-to-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-add-to-cart</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddToCart&quot;)/div[@class=&quot;leo-product-add-to-cart-component leo-product-add-to-cart-component-product-add-to-cart-btn-beta xs-up.form-group:flx-row-align=stretch-left xs-up.btn-add-to-cart:w=100 xs-up.btn-add-to-cart:ls=(1px) xs-up.btn-add-to-cart:btn=alpha xs-up.btn-add-to-cart:fs=p4 xs-up.btn-add-to-cart:hmin=(2.5rem) xs-up.btn-add-to-cart:txt-case=upper xs-up.btn-add-to-cart[disabled]:btn=muted xs-up.btn-add-to-cart[disabled]:fc=black-60 xs-up.input-group:w=auto xs-up.input-group:flx-wrap=no xs-up.btn-qty:btn=light xs-up.btn-qty:b=none xs-up.btn-decrease:icon-after=minus xs-up.btn-increase:icon-after=plus xs-up.input-group-prepend:mx=0 xs-up.input-group-append:mx=0 xs-up>>input.form-control:bc=alpha xs-up>>input.form-control:fs=p3 xs-up.form-control:wmin=(3rem) xs-up.form-control:wmax=(3rem) xs-up.form-control:hmin=(2.5rem) xs-up.form-control:h=100 xs-up.form-control:px=0 xs-up.form-control:txt-align=center xs-up.form-control:m=0 xs-up.tooltip-inner:wmin=(8rem) xs-up:px=3 xs-up.form-group:flx-col-align=bottom-left xs-up.form-group:bgc=white! xs-up.form-group:z=1! xs-up.form-group:mb=0! xs-up.form-group:pb=3 xs-up.btn-add-to-cart:btn-size=medium! xs-up.btn-add-to-cart:hmax=(3rem) xs-up.btn-add-to-cart:mb=3 xs-up.btn-add-to-cart:mt=6 xs-up.input-group+.btn-add-to-cart:mt=4 xs-up.input-group:mr=3 xs-up.input-group>>button:hmax=(2.5rem) xs-up.quantity:wmax=(2.5rem) xs-up.quantity:wmin=(2.5rem) xs-up.btn-qty:wmin=(2.5rem) xs-up.btn-qty:bgc=wildsand product-add-to-cart-btn-beta&quot;]/div[1]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn-add-to-cart&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddToCart']/div/div/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to favorites'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dimensions'])[1]/preceding::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to Cart']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/div/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+   </webElementXpaths>
+</WebElementEntity>
