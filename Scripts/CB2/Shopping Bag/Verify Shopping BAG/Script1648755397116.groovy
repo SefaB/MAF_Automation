@@ -31,17 +31,19 @@ WebUI.click(findTestObject('CB2/PDP/PDP_product_office_chair_chelsea'))
 
 WebUI.click(findTestObject('CB2/Items Added to Bag/add_to_cart_button'))
 
-WebUI.verifyElementVisible(findTestObject('CB2/Items Added to Bag/item_added_to_bag_title'))
-
-WebUI.verifyElementVisible(findTestObject('CB2/Items Added to Bag/order_subtotal'))
-
-WebUI.verifyElementVisible(findTestObject('CB2/Items Added to Bag/order_subtotal_icl_vat'))
-
-WebUI.verifyElementVisible(findTestObject('CB2/Items Added to Bag/product_tile'))
-
 WebUI.click(findTestObject('CB2/Items Added to Bag/modal_to_close_cart_popup'))
 
-WebUI.verifyElementVisible(findTestObject('CB2/Items Added to Bag/pdp_page_title'))
+WebUI.click(findTestObject('CB2/View Cart/view_cart_button'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/View Cart/cart_items_counter'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/View Cart/donate_to_help_section'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/View Cart/cart_summary_section'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/View Cart/header_section'))
+
+WebUI.verifyElementVisible(findTestObject('CB2/View Cart/footer_section'))
 
 WebUI.closeBrowser()
 
