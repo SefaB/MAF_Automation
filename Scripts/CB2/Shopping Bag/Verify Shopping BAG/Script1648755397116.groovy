@@ -41,6 +41,8 @@ WebUI.verifyElementVisible(findTestObject('CB2/View Cart/donate_to_help_section'
 
 WebUI.verifyElementVisible(findTestObject('CB2/View Cart/cart_summary_section'))
 
+WebUI.verifyElementVisible(findTestObject('CB2/View Cart/product_tile'))
+
 WebUI.verifyElementVisible(findTestObject('CB2/View Cart/header_section'))
 
 WebUI.verifyElementVisible(findTestObject('CB2/View Cart/footer_section'))
