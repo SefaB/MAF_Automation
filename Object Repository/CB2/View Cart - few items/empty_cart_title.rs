@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>empty_cart_title</name>
+   <tag></tag>
+   <elementGuidId>4273e656-b9c5-4bc9-9112-10d325216658</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Cb2EmptyCartAnonymousParagraph']/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Are you missing items in your cart? Sign in to see items you may have added using another computer or device.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Cb2EmptyCartAnonymousParagraph&quot;)/div[@class=&quot;leo-paragraph-component leo-paragraph-component-raw-empty-cart-anonymous xs-up>>a:txt-underline=yes xs-up>>a:fc=link xs-up.btn-truncate-container:txt-align=left xs-up.btn-truncate:p=0 xs-up.btn-truncate:m=0 xs-up.btn-truncate:fc=link xs-up.btn-truncate:fs=p3 xs-up.btn-truncate:after:fw=bold! xs-up.btn-truncate:after:ml=2 xs-up.state-truncated-no:icon-after=chevron-up xs-up.state-truncated-yes:icon-after=chevron-down xs-up:px=2 xs-up:fc=black-60 xs-up:fw=light xs-up>>a:fc=dark raw-empty-cart-anonymous&quot;]/div[1]/div[@class=&quot;raw content-truncate&quot;]/p[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Cb2EmptyCartAnonymousParagraph']/div/div/div/p</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0 items)'])[1]/following::p[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Know What', &quot;'&quot;, 's Up. Sign Up For Emails.')])[1]/preceding::p[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Are you missing items in your cart?']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Are you missing items in your cart? Sign in to see items you may have added using another computer or device.' or . = 'Are you missing items in your cart? Sign in to see items you may have added using another computer or device.')]</value>
+   </webElementXpaths>
+</WebElementEntity>
