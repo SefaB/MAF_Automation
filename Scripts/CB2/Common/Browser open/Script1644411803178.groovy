@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.deleteAllCookies()
+
 WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://cb2.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/en/')

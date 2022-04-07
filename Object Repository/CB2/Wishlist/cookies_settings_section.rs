@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cookies_settings_section</name>
+   <tag></tag>
+   <elementGuidId>a5fab064-27b9-4761-8398-abfce1f4ff22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Cb2NavCopyrightTopComponent']/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>media-body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cookie SettingsIf you are using a screen reader and are having problems using this website, please call 800CB2ME (800 22263) for assistance. *Available on full price items only.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Cb2NavCopyrightTopComponent&quot;)/div[@class=&quot;leo-advanced-content-navigation-component leo-advanced-content-navigation-component-copyright-alpha xs-up:fs=p4 xs-up:fw=light md-down.media:flx-dir=col xs-up.nav-nodes:d=flx xs-up.nav-nodes:flx-wrap=yes md-down.nav-nodes:flx-dir=col xs-up.nav-nodes>>ul:my=3 sm-up.nav-nodes>>ul:m=0 sm-up.nav-nodes>>ul:d=inflx xs-up.nav-nodes>>li:d=flx sm-up.nav-nodes>>li:d=inflx xs-up.nav-nodes>>li:mb=1 sm-up.nav-nodes>>li:mb=0 sm-up.nav-nodes>>li:after:content=(|) sm-up.nav-nodes>>li:after:fw=regular sm-up.nav-nodes>>li:after:mx=3 sm-up.nav-nodes>>li:after:pos=rel sm-up.nav-nodes>>li:after:top=(-1px) sm-up.nav-nodes>>li:after:fw=light md-down.nav-nodes>>li:first-child:after:d=none xs-up.nav-nodes>>button:txt-case=upper! xs-up.media-item>>img:hmax=(2rem) xs-up.media-item:mx=0 xs-up.media-item:w=100 md-up.media-item:wmax=25 md-down.media-item:mb=3 xs-up.media-body:d=flx md-up.media-body:flx-justify-content=center md-down.media-body:flx-col-align-self=top-left md-down.tagline:d=block xs-up.content:txt-case=none xs-up.content:fs=p5 xs-up.link:hover:txt-underline=no sm-up.link:ls=.06 copyright-alpha&quot;]/div[1]/div[1]/div[@class=&quot;wrapper-card xs-up:card-align=center-left xs-up:card-media-align=center-left xs-up:card-content-align=center-left&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Cb2NavCopyrightTopComponent']/div/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Brands'])[1]/following::div[29]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[3]/following::div[34]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='©2021 CB2'])[1]/preceding::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cookie SettingsIf you are using a screen reader and are having problems using this website, please call 800CB2ME (800 22263) for assistance. *Available on full price items only.' or . = 'Cookie SettingsIf you are using a screen reader and are having problems using this website, please call 800CB2ME (800 22263) for assistance. *Available on full price items only.')]</value>
+   </webElementXpaths>
+</WebElementEntity>

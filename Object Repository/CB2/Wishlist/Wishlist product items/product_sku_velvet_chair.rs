@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>product_sku_velvet_chair</name>
+   <tag></tag>
+   <elementGuidId>518dc37b-4a30-414b-9f9d-0e9f1011fcf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='undefined']/div/div/div)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.code</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>code</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SKU: 356277_CB2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SavedCartsComponent&quot;)/div[@class=&quot;leo-saved-carts-component leo-saved-carts-component-product-grid-beta-one-column xs-up:product-grid:pos=rel xs-up:product-grid-col-item-inner:h=100 xs-up:product-grid-container:px=0 xs-up:product-grid-row-group-not-last:bw-bottom=(1px) xs-up:product-grid-row-group:txt-case=upper xs-up:product-grid-row-group:py=(0.75rem) xs-up:product-grid-row-group:bc=muted xs-up:product-grid-row-group:mb=5 xs-up:product-grid-row-group:pb=5 xs-up:product-grid-row-group:flx-wrap=yes xs-up:product-grid-row-group:flx-row-align=top-left md-up:product-grid-row-group:flx-row-align=top-between md-up:product-grid-row-last:ml=auto xs-up:product-grid-row:mx=0 sm-down:product-grid-row-last:flx=1 sm-down:product-grid-row-last:w=100 sm-down:product-grid-row-last:mt=2 xs-up:product-grid-col-item-inner:pos=rel xs-up.row-image:mr=2 xs-up.row-image>>img:w=100 xs-up.row-image:wmax=40 md-up.row-image:wmax=(23%) md-up.row-image:w=(200px) sm-down.row-image+.row:wmax=60 sm-down.row-image+.row:wmin=60 md-up.row-sku:wmax=(35%) lg-up.row-sku:wmax=(42%) md-up.row-add-to-cart:wmax=(42%) lg-up.row-add-to-cart:wmax=(35%) xs-up.tile-add-to-wishlist:pos=abs xs-up.tile-add-to-wishlist:right=0 xs-up.tile-add-to-wishlist:top=n5 xs-up.tile-variant-selector-simple>>.variant-group:mb=3 xs-up.tile-variant-selector-advanced>>.features-group:mb=3 xs-up.tile-variant-selected-item>>.variant-list:mb=3 xs-up.tile-name>>.name:mb=2 xs-up.tile-summary>>.summary:mb=3 md-up.tile+.tile-price:d=flx md-up.tile+.tile-price:flx-justify-content=end xs-up.tile-price+.tile:mt=1 md-up.tile-price+.tile:mt=3 md-up.tile-price:txt-align=right xs-up.price:txt-case=upper md-up.tile-sku:mt=n2! xs-up.code:fw=light md-up.input-group:mr=2 xs-up.input-group:mr=3! product-grid-beta-one-column&quot;]/div[1]/div[1]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-list-component leo-product-list-component-product-grid-beta-one-column xs-up:product-grid:pos=rel xs-up:product-grid-col-item-inner:h=100 xs-up:product-grid-container:px=0 xs-up:product-grid-row-group-not-last:bw-bottom=(1px) xs-up:product-grid-row-group:txt-case=upper xs-up:product-grid-row-group:py=(0.75rem) xs-up:product-grid-row-group:bc=muted xs-up:product-grid-row-group:mb=5 xs-up:product-grid-row-group:pb=5 xs-up:product-grid-row-group:flx-wrap=yes xs-up:product-grid-row-group:flx-row-align=top-left md-up:product-grid-row-group:flx-row-align=top-between md-up:product-grid-row-last:ml=auto xs-up:product-grid-row:mx=0 sm-down:product-grid-row-last:flx=1 sm-down:product-grid-row-last:w=100 sm-down:product-grid-row-last:mt=2 xs-up:product-grid-col-item-inner:pos=rel xs-up.row-image:mr=2 xs-up.row-image>>img:w=100 xs-up.row-image:wmax=40 md-up.row-image:wmax=(23%) md-up.row-image:w=(200px) sm-down.row-image+.row:wmax=60 sm-down.row-image+.row:wmin=60 md-up.row-sku:wmax=(35%) lg-up.row-sku:wmax=(42%) md-up.row-add-to-cart:wmax=(42%) lg-up.row-add-to-cart:wmax=(35%) xs-up.tile-add-to-wishlist:pos=abs xs-up.tile-add-to-wishlist:right=0 xs-up.tile-add-to-wishlist:top=n5 xs-up.tile-variant-selector-simple>>.variant-group:mb=3 xs-up.tile-variant-selector-advanced>>.features-group:mb=3 xs-up.tile-variant-selected-item>>.variant-list:mb=3 xs-up.tile-name>>.name:mb=2 xs-up.tile-summary>>.summary:mb=3 md-up.tile+.tile-price:d=flx md-up.tile+.tile-price:flx-justify-content=end xs-up.tile-price+.tile:mt=1 md-up.tile-price+.tile:mt=3 md-up.tile-price:txt-align=right xs-up.price:txt-case=upper md-up.tile-sku:mt=n2! xs-up.code:fw=light md-up.input-group:mr=2 xs-up.input-group:mr=3! product-grid-beta-one-column&quot;]/div[1]/div[@class=&quot;container container-grid&quot;]/div[@class=&quot;row-group&quot;]/div[@class=&quot;row row-add-to-wishlist row-badges row-name row-variant-selected-item row-price row-sku&quot;]/div[@class=&quot;col-item col-12&quot;]/div[@class=&quot;col-item-inner&quot;]/div[@class=&quot;tile tile-sku&quot;]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-sku-component leo-product-sku-component-product-sku-alpha xs-up:fp=4 xs-up:fc=black-70 product-sku-alpha&quot;]/div[1]/div[@class=&quot;code&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='undefined']/div/div/div)[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Channel Green Velvet Office Chair'])[2]/following::div[14]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Favorites'])[4]/following::div[48]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove from favorites'])[1]/preceding::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED 2,755.00'])[1]/preceding::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SKU: 356277_CB2']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[6]/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SKU: 356277_CB2' or . = 'SKU: 356277_CB2')]</value>
+   </webElementXpaths>
+</WebElementEntity>

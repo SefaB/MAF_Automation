@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>add_to_cart_button_velvet_chair</name>
+   <tag></tag>
+   <elementGuidId>755e844d-b7aa-4c55-8cb9-16cc705ea1a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='undefined']/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-add-to-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-add-to-cart</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SavedCartsComponent&quot;)/div[@class=&quot;leo-saved-carts-component leo-saved-carts-component-product-grid-beta-one-column xs-up:product-grid:pos=rel xs-up:product-grid-col-item-inner:h=100 xs-up:product-grid-container:px=0 xs-up:product-grid-row-group-not-last:bw-bottom=(1px) xs-up:product-grid-row-group:txt-case=upper xs-up:product-grid-row-group:py=(0.75rem) xs-up:product-grid-row-group:bc=muted xs-up:product-grid-row-group:mb=5 xs-up:product-grid-row-group:pb=5 xs-up:product-grid-row-group:flx-wrap=yes xs-up:product-grid-row-group:flx-row-align=top-left md-up:product-grid-row-group:flx-row-align=top-between md-up:product-grid-row-last:ml=auto xs-up:product-grid-row:mx=0 sm-down:product-grid-row-last:flx=1 sm-down:product-grid-row-last:w=100 sm-down:product-grid-row-last:mt=2 xs-up:product-grid-col-item-inner:pos=rel xs-up.row-image:mr=2 xs-up.row-image>>img:w=100 xs-up.row-image:wmax=40 md-up.row-image:wmax=(23%) md-up.row-image:w=(200px) sm-down.row-image+.row:wmax=60 sm-down.row-image+.row:wmin=60 md-up.row-sku:wmax=(35%) lg-up.row-sku:wmax=(42%) md-up.row-add-to-cart:wmax=(42%) lg-up.row-add-to-cart:wmax=(35%) xs-up.tile-add-to-wishlist:pos=abs xs-up.tile-add-to-wishlist:right=0 xs-up.tile-add-to-wishlist:top=n5 xs-up.tile-variant-selector-simple>>.variant-group:mb=3 xs-up.tile-variant-selector-advanced>>.features-group:mb=3 xs-up.tile-variant-selected-item>>.variant-list:mb=3 xs-up.tile-name>>.name:mb=2 xs-up.tile-summary>>.summary:mb=3 md-up.tile+.tile-price:d=flx md-up.tile+.tile-price:flx-justify-content=end xs-up.tile-price+.tile:mt=1 md-up.tile-price+.tile:mt=3 md-up.tile-price:txt-align=right xs-up.price:txt-case=upper md-up.tile-sku:mt=n2! xs-up.code:fw=light md-up.input-group:mr=2 xs-up.input-group:mr=3! product-grid-beta-one-column&quot;]/div[1]/div[1]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-list-component leo-product-list-component-product-grid-beta-one-column xs-up:product-grid:pos=rel xs-up:product-grid-col-item-inner:h=100 xs-up:product-grid-container:px=0 xs-up:product-grid-row-group-not-last:bw-bottom=(1px) xs-up:product-grid-row-group:txt-case=upper xs-up:product-grid-row-group:py=(0.75rem) xs-up:product-grid-row-group:bc=muted xs-up:product-grid-row-group:mb=5 xs-up:product-grid-row-group:pb=5 xs-up:product-grid-row-group:flx-wrap=yes xs-up:product-grid-row-group:flx-row-align=top-left md-up:product-grid-row-group:flx-row-align=top-between md-up:product-grid-row-last:ml=auto xs-up:product-grid-row:mx=0 sm-down:product-grid-row-last:flx=1 sm-down:product-grid-row-last:w=100 sm-down:product-grid-row-last:mt=2 xs-up:product-grid-col-item-inner:pos=rel xs-up.row-image:mr=2 xs-up.row-image>>img:w=100 xs-up.row-image:wmax=40 md-up.row-image:wmax=(23%) md-up.row-image:w=(200px) sm-down.row-image+.row:wmax=60 sm-down.row-image+.row:wmin=60 md-up.row-sku:wmax=(35%) lg-up.row-sku:wmax=(42%) md-up.row-add-to-cart:wmax=(42%) lg-up.row-add-to-cart:wmax=(35%) xs-up.tile-add-to-wishlist:pos=abs xs-up.tile-add-to-wishlist:right=0 xs-up.tile-add-to-wishlist:top=n5 xs-up.tile-variant-selector-simple>>.variant-group:mb=3 xs-up.tile-variant-selector-advanced>>.features-group:mb=3 xs-up.tile-variant-selected-item>>.variant-list:mb=3 xs-up.tile-name>>.name:mb=2 xs-up.tile-summary>>.summary:mb=3 md-up.tile+.tile-price:d=flx md-up.tile+.tile-price:flx-justify-content=end xs-up.tile-price+.tile:mt=1 md-up.tile-price+.tile:mt=3 md-up.tile-price:txt-align=right xs-up.price:txt-case=upper md-up.tile-sku:mt=n2! xs-up.code:fw=light md-up.input-group:mr=2 xs-up.input-group:mr=3! product-grid-beta-one-column&quot;]/div[1]/div[@class=&quot;container container-grid&quot;]/div[@class=&quot;row-group&quot;]/div[@class=&quot;row row-add-to-wishlist row-price row-add-to-cart&quot;]/div[@class=&quot;col-item col-12&quot;]/div[@class=&quot;col-item-inner&quot;]/div[@class=&quot;tile tile-add-to-cart&quot;]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-add-to-cart-component leo-product-add-to-cart-component-product-add-to-cart-btn-gamma xs-up.form-group:flx-row-align=stretch-left xs-up.btn-add-to-cart:w=100 xs-up.btn-add-to-cart:ls=(1px) xs-up.btn-add-to-cart:btn=alpha xs-up.btn-add-to-cart:fs=p4 xs-up.btn-add-to-cart:hmin=(2.5rem) xs-up.btn-add-to-cart:txt-case=upper xs-up.btn-add-to-cart[disabled]:btn=muted xs-up.btn-add-to-cart[disabled]:fc=black-60 xs-up.input-group:w=auto xs-up.input-group:flx-wrap=no xs-up.btn-qty:btn=light xs-up.btn-qty:b=none xs-up.btn-decrease:icon-after=minus xs-up.btn-increase:icon-after=plus xs-up.input-group-prepend:mx=0 xs-up.input-group-append:mx=0 xs-up>>input.form-control:bc=alpha xs-up>>input.form-control:fs=p3 xs-up.form-control:wmin=(3rem) xs-up.form-control:wmax=(3rem) xs-up.form-control:hmin=(2.5rem) xs-up.form-control:h=100 xs-up.form-control:px=0 xs-up.form-control:txt-align=center xs-up.form-control:m=0 xs-up.tooltip-inner:wmin=(8rem) md-up.btn-add-to-cart:wmax=(13.75rem) xs-up.input-group:mr=1 xs-up.form-group:mb=0 sm-down.tooltip-inner:wmin=(4rem) product-add-to-cart-btn-gamma&quot;]/div[1]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn-add-to-cart&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='undefined']/div/div/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED 2,755.00'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove from favorites'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Court Office Chair'])[2]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKU: 129648_CB2'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to Cart']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+   </webElementXpaths>
+</WebElementEntity>

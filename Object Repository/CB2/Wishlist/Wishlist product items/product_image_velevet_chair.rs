@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>product_image_velevet_chair</name>
+   <tag></tag>
+   <elementGuidId>7f3c71c9-b845-4b20-8a06-2f185f115f7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='undefined']/div/div/a/div/div/picture/img)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/356277-CB2ChannelGrnVlvtOffcChairSHF19-1x1-convert-900x600?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDI5MzI1fGltYWdlL2pwZWd8aGQ1L2hlNy85MTU5NzU1MjAyNTkwLzM1NjI3N19DQjJDaGFubmVsR3JuVmx2dE9mZmNDaGFpclNIRjE5XzF4MV9jb252ZXJ0LTkwMHg2MDB8YTFjNGVkYWM5ZGJhNTUxYjM5OTU4YTQ0YmQ3N2NhOGNlYzI3MDhjOTQwMzRmZjc3ZDRhYzQwNTU2NTIxNTMwMw</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Channel Green Velvet Office Chair</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SavedCartsComponent&quot;)/div[@class=&quot;leo-saved-carts-component leo-saved-carts-component-product-grid-beta-one-column xs-up:product-grid:pos=rel xs-up:product-grid-col-item-inner:h=100 xs-up:product-grid-container:px=0 xs-up:product-grid-row-group-not-last:bw-bottom=(1px) xs-up:product-grid-row-group:txt-case=upper xs-up:product-grid-row-group:py=(0.75rem) xs-up:product-grid-row-group:bc=muted xs-up:product-grid-row-group:mb=5 xs-up:product-grid-row-group:pb=5 xs-up:product-grid-row-group:flx-wrap=yes xs-up:product-grid-row-group:flx-row-align=top-left md-up:product-grid-row-group:flx-row-align=top-between md-up:product-grid-row-last:ml=auto xs-up:product-grid-row:mx=0 sm-down:product-grid-row-last:flx=1 sm-down:product-grid-row-last:w=100 sm-down:product-grid-row-last:mt=2 xs-up:product-grid-col-item-inner:pos=rel xs-up.row-image:mr=2 xs-up.row-image>>img:w=100 xs-up.row-image:wmax=40 md-up.row-image:wmax=(23%) md-up.row-image:w=(200px) sm-down.row-image+.row:wmax=60 sm-down.row-image+.row:wmin=60 md-up.row-sku:wmax=(35%) lg-up.row-sku:wmax=(42%) md-up.row-add-to-cart:wmax=(42%) lg-up.row-add-to-cart:wmax=(35%) xs-up.tile-add-to-wishlist:pos=abs xs-up.tile-add-to-wishlist:right=0 xs-up.tile-add-to-wishlist:top=n5 xs-up.tile-variant-selector-simple>>.variant-group:mb=3 xs-up.tile-variant-selector-advanced>>.features-group:mb=3 xs-up.tile-variant-selected-item>>.variant-list:mb=3 xs-up.tile-name>>.name:mb=2 xs-up.tile-summary>>.summary:mb=3 md-up.tile+.tile-price:d=flx md-up.tile+.tile-price:flx-justify-content=end xs-up.tile-price+.tile:mt=1 md-up.tile-price+.tile:mt=3 md-up.tile-price:txt-align=right xs-up.price:txt-case=upper md-up.tile-sku:mt=n2! xs-up.code:fw=light md-up.input-group:mr=2 xs-up.input-group:mr=3! product-grid-beta-one-column&quot;]/div[1]/div[1]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-list-component leo-product-list-component-product-grid-beta-one-column xs-up:product-grid:pos=rel xs-up:product-grid-col-item-inner:h=100 xs-up:product-grid-container:px=0 xs-up:product-grid-row-group-not-last:bw-bottom=(1px) xs-up:product-grid-row-group:txt-case=upper xs-up:product-grid-row-group:py=(0.75rem) xs-up:product-grid-row-group:bc=muted xs-up:product-grid-row-group:mb=5 xs-up:product-grid-row-group:pb=5 xs-up:product-grid-row-group:flx-wrap=yes xs-up:product-grid-row-group:flx-row-align=top-left md-up:product-grid-row-group:flx-row-align=top-between md-up:product-grid-row-last:ml=auto xs-up:product-grid-row:mx=0 sm-down:product-grid-row-last:flx=1 sm-down:product-grid-row-last:w=100 sm-down:product-grid-row-last:mt=2 xs-up:product-grid-col-item-inner:pos=rel xs-up.row-image:mr=2 xs-up.row-image>>img:w=100 xs-up.row-image:wmax=40 md-up.row-image:wmax=(23%) md-up.row-image:w=(200px) sm-down.row-image+.row:wmax=60 sm-down.row-image+.row:wmin=60 md-up.row-sku:wmax=(35%) lg-up.row-sku:wmax=(42%) md-up.row-add-to-cart:wmax=(42%) lg-up.row-add-to-cart:wmax=(35%) xs-up.tile-add-to-wishlist:pos=abs xs-up.tile-add-to-wishlist:right=0 xs-up.tile-add-to-wishlist:top=n5 xs-up.tile-variant-selector-simple>>.variant-group:mb=3 xs-up.tile-variant-selector-advanced>>.features-group:mb=3 xs-up.tile-variant-selected-item>>.variant-list:mb=3 xs-up.tile-name>>.name:mb=2 xs-up.tile-summary>>.summary:mb=3 md-up.tile+.tile-price:d=flx md-up.tile+.tile-price:flx-justify-content=end xs-up.tile-price+.tile:mt=1 md-up.tile-price+.tile:mt=3 md-up.tile-price:txt-align=right xs-up.price:txt-case=upper md-up.tile-sku:mt=n2! xs-up.code:fw=light md-up.input-group:mr=2 xs-up.input-group:mr=3! product-grid-beta-one-column&quot;]/div[1]/div[@class=&quot;container container-grid&quot;]/div[@class=&quot;row-group&quot;]/div[@class=&quot;row row-image&quot;]/div[@class=&quot;col-item col-12&quot;]/div[@class=&quot;col-item-inner&quot;]/div[@class=&quot;tile tile-image&quot;]/div[@id=&quot;undefined&quot;]/div[@class=&quot;leo-product-image-component leo-product-image-component-product-image-alpha xs-up.product-images:scrollable=none xs-up.product-images:pos=rel xs-up.product-images:cursor=pointer xs-up.product-images>>img:w=100 xs-up.product-rollover-image:w=100 xs-up.product-rollover-image:pos=abs xs-up.product-rollover-image:top=0 xs-up.product-rollover-image:left=0 xs-up.rollover>>[leo-media]:transition=opacity xs-up.rollover>>.product-rollover-image:opacity=0 xs-up.rollover.product-images:hover>>.product-image:opacity=0 xs-up.rollover.product-images:hover>>.product-rollover-image:opacity=100 xs-up:h=100 xs-up>div:h=100 xs-up.product-images.rollover:d=flx xs-up.is-missing:h=100 xs-up.media-placeholder:h=100 product-image-alpha&quot;]/div[1]/a[@class=&quot;product-images&quot;]/div[@class=&quot;product-image is-initialized&quot;]/div[1]/picture[1]/img[@class=&quot;xs-up:w=auto xs-up:hmax=100 xs-up:wmax=100&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='undefined']/div/div/a/div/div/picture/img)[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Channel Green Velvet Office Chair'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div/div/div/a/div/div/picture/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://api.c1xjddw2-majidalfu1-s1-public.model-t.cc.commerce.ondemand.com/medias/356277-CB2ChannelGrnVlvtOffcChairSHF19-1x1-convert-900x600?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDI5MzI1fGltYWdlL2pwZWd8aGQ1L2hlNy85MTU5NzU1MjAyNTkwLzM1NjI3N19DQjJDaGFubmVsR3JuVmx2dE9mZmNDaGFpclNIRjE5XzF4MV9jb252ZXJ0LTkwMHg2MDB8YTFjNGVkYWM5ZGJhNTUxYjM5OTU4YTQ0YmQ3N2NhOGNlYzI3MDhjOTQwMzRmZjc3ZDRhYzQwNTU2NTIxNTMwMw' and @alt = 'Channel Green Velvet Office Chair']</value>
+   </webElementXpaths>
+</WebElementEntity>
